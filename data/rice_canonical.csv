@@ -1,0 +1,1280 @@
+row_id,state,district,crop,season,year,area,production,yield_t_ha
+WB_R00000,West Bengal,Paraganas North,Rice,Autumn,1997,15017.0,33840,2.25
+WB_R00001,West Bengal,Paraganas North,Rice,Summer,1997,98044.0,269690,2.75
+WB_R00002,West Bengal,Paraganas North,Rice,Winter,1997,193202.0,381990,1.98
+WB_R00003,West Bengal,Paraganas North,Rice,Autumn,1998,21417.0,45870,2.14
+WB_R00004,West Bengal,Paraganas North,Rice,Summer,1998,114251.0,425881,3.73
+WB_R00005,West Bengal,Paraganas North,Rice,Winter,1998,199701.0,391190,1.96
+WB_R00006,West Bengal,Paraganas North,Rice,Autumn,1999,25760.0,60990,2.37
+WB_R00007,West Bengal,Paraganas North,Rice,Summer,1999,112461.0,345460,3.07
+WB_R00008,West Bengal,Paraganas North,Rice,Winter,1999,192944.0,423850,2.2
+WB_R00009,West Bengal,Paraganas North,Rice,Autumn,2000,28438.0,47660,1.68
+WB_R00010,West Bengal,Paraganas North,Rice,Summer,2000,109077.0,341715,3.13
+WB_R00011,West Bengal,Paraganas North,Rice,Winter,2000,136439.0,251580,1.84
+WB_R00012,West Bengal,Paraganas North,Rice,Autumn,2001,32824.0,75912,2.31
+WB_R00013,West Bengal,Paraganas North,Rice,Summer,2001,100153.0,316329,3.16
+WB_R00014,West Bengal,Paraganas North,Rice,Winter,2001,198499.0,463190,2.33
+WB_R00015,West Bengal,Paraganas North,Rice,Autumn,2002,17781.0,39008,2.19
+WB_R00016,West Bengal,Paraganas North,Rice,Summer,2002,88692.0,276560,3.12
+WB_R00017,West Bengal,Paraganas North,Rice,Winter,2002,180898.0,436010,2.41
+WB_R00018,West Bengal,Paraganas North,Rice,Autumn,2003,13747.0,33482,2.44
+WB_R00019,West Bengal,Paraganas North,Rice,Summer,2003,83792.0,265326,3.17
+WB_R00020,West Bengal,Paraganas North,Rice,Winter,2003,169933.0,402803,2.37
+WB_R00021,West Bengal,Paraganas North,Rice,Autumn,2004,18746.0,42098,2.25
+WB_R00022,West Bengal,Paraganas North,Rice,Summer,2004,89345.0,276187,3.09
+WB_R00023,West Bengal,Paraganas North,Rice,Winter,2004,157096.0,368303,2.34
+WB_R00024,West Bengal,Paraganas North,Rice,Autumn,2005,18148.0,43726,2.41
+WB_R00025,West Bengal,Paraganas North,Rice,Summer,2005,96675.0,283954,2.94
+WB_R00026,West Bengal,Paraganas North,Rice,Winter,2005,162284.0,389682,2.4
+WB_R00027,West Bengal,Paraganas North,Rice,Autumn,2006,17719.0,46279,2.61
+WB_R00028,West Bengal,Paraganas North,Rice,Summer,2006,89707.0,271884,3.03
+WB_R00029,West Bengal,Paraganas North,Rice,Winter,2006,170626.0,407810,2.39
+WB_R00030,West Bengal,Paraganas North,Rice,Autumn,2007,20861.0,44993,2.16
+WB_R00031,West Bengal,Paraganas North,Rice,Summer,2007,95528.0,294718,3.09
+WB_R00032,West Bengal,Paraganas North,Rice,Winter,2007,157175.0,404941,2.58
+WB_R00033,West Bengal,Paraganas North,Rice,Autumn,2008,22083.0,59411,2.69
+WB_R00034,West Bengal,Paraganas North,Rice,Summer,2008,95232.0,271409,2.85
+WB_R00035,West Bengal,Paraganas North,Rice,Winter,2008,157226.0,406213,2.58
+WB_R00036,West Bengal,Paraganas North,Rice,Autumn,2009,18839.0,50488,2.68
+WB_R00037,West Bengal,Paraganas North,Rice,Summer,2009,88725.0,276708,3.12
+WB_R00038,West Bengal,Paraganas North,Rice,Winter,2009,127578.0,331194,2.6
+WB_R00039,West Bengal,Paraganas North,Rice,Autumn,2010,18514.0,42008,2.27
+WB_R00040,West Bengal,Paraganas North,Rice,Summer,2010,77633.0,261587,3.37
+WB_R00041,West Bengal,Paraganas North,Rice,Winter,2010,127578.0,302957,2.37
+WB_R00042,West Bengal,Paraganas North,Rice,Autumn,2011,15789.0,42918,2.72
+WB_R00043,West Bengal,Paraganas North,Rice,Summer,2011,71962.0,225593,3.13
+WB_R00044,West Bengal,Paraganas North,Rice,Winter,2011,133756.0,329019,2.46
+WB_R00045,West Bengal,Paraganas North,Rice,Autumn,2012,13891.0,36080,2.6
+WB_R00046,West Bengal,Paraganas North,Rice,Summer,2012,70500.0,249051,3.53
+WB_R00047,West Bengal,Paraganas North,Rice,Winter,2012,133093.0,364032,2.74
+WB_R00048,West Bengal,Paraganas North,Rice,Autumn,2013,16286.0,46047,2.83
+WB_R00049,West Bengal,Paraganas North,Rice,Summer,2013,70880.0,231275,3.26
+WB_R00050,West Bengal,Paraganas North,Rice,Winter,2013,131943.0,391081,2.96
+WB_R00051,West Bengal,Paraganas North,Rice,Autumn,2014,15876.0,42913,2.7
+WB_R00052,West Bengal,Paraganas North,Rice,Summer,2014,70898.0,239229,3.37
+WB_R00053,West Bengal,Paraganas North,Rice,Winter,2014,139767.0,401623,2.87
+WB_R00054,West Bengal,Paraganas North,Rice,Autumn,2015,17924.0,49687,2.77
+WB_R00055,West Bengal,Paraganas North,Rice,Summer,2015,72439.0,240017,3.31
+WB_R00056,West Bengal,Paraganas North,Rice,Winter,2015,139946.0,389749,2.78
+WB_R00057,West Bengal,Paraganas North,Rice,Autumn,2016,20136.0,54174,2.69
+WB_R00058,West Bengal,Paraganas North,Rice,Summer,2016,61123.0,211172,3.45
+WB_R00059,West Bengal,Paraganas North,Rice,Winter,2016,143075.0,400528,2.8
+WB_R00060,West Bengal,Paraganas North,Rice,Autumn,2017,18561.0,54454,2.93
+WB_R00061,West Bengal,Paraganas North,Rice,Summer,2017,63492.0,218404,3.44
+WB_R00062,West Bengal,Paraganas North,Rice,Winter,2017,143736.0,417070,2.9
+WB_R00063,West Bengal,Paraganas North,Rice,Autumn,2018,19550.0,56300,2.88
+WB_R00064,West Bengal,Paraganas North,Rice,Summer,2018,69624.0,249118,3.58
+WB_R00065,West Bengal,Paraganas North,Rice,Winter,2018,142463.0,469611,3.3
+WB_R00066,West Bengal,Paraganas North,Rice,Autumn,2019,18673.0,56325,3.02
+WB_R00067,West Bengal,Paraganas North,Rice,Summer,2019,66443.0,250438,3.77
+WB_R00068,West Bengal,Paraganas North,Rice,Winter,2019,142057.0,361028,2.54
+WB_R00069,West Bengal,Paraganas South,Rice,Autumn,1997,2409.0,5270,2.19
+WB_R00070,West Bengal,Paraganas South,Rice,Summer,1997,54664.0,135730,2.48
+WB_R00071,West Bengal,Paraganas South,Rice,Winter,1997,373220.0,494160,1.32
+WB_R00072,West Bengal,Paraganas South,Rice,Autumn,1998,4337.0,7600,1.75
+WB_R00073,West Bengal,Paraganas South,Rice,Summer,1998,80890.0,241720,2.99
+WB_R00074,West Bengal,Paraganas South,Rice,Winter,1998,363033.0,500380,1.38
+WB_R00075,West Bengal,Paraganas South,Rice,Autumn,1999,5314.0,10920,2.05
+WB_R00076,West Bengal,Paraganas South,Rice,Summer,1999,76997.0,216290,2.81
+WB_R00077,West Bengal,Paraganas South,Rice,Winter,1999,373726.0,705620,1.89
+WB_R00078,West Bengal,Paraganas South,Rice,Autumn,2000,6927.0,12540,1.81
+WB_R00079,West Bengal,Paraganas South,Rice,Summer,2000,83471.0,226170,2.71
+WB_R00080,West Bengal,Paraganas South,Rice,Winter,2000,335463.0,628220,1.87
+WB_R00081,West Bengal,Paraganas South,Rice,Autumn,2001,11309.0,31783,2.81
+WB_R00082,West Bengal,Paraganas South,Rice,Summer,2001,82240.0,235784,2.87
+WB_R00083,West Bengal,Paraganas South,Rice,Winter,2001,336114.0,736064,2.19
+WB_R00084,West Bengal,Paraganas South,Rice,Autumn,2002,14120.0,33419,2.37
+WB_R00085,West Bengal,Paraganas South,Rice,Summer,2002,76088.0,212342,2.79
+WB_R00086,West Bengal,Paraganas South,Rice,Winter,2002,343596.0,694975,2.02
+WB_R00087,West Bengal,Paraganas South,Rice,Autumn,2003,16217.0,34196,2.11
+WB_R00088,West Bengal,Paraganas South,Rice,Summer,2003,77367.0,219865,2.84
+WB_R00089,West Bengal,Paraganas South,Rice,Winter,2003,353858.0,715537,2.02
+WB_R00090,West Bengal,Paraganas South,Rice,Autumn,2004,3151.0,7148,2.27
+WB_R00091,West Bengal,Paraganas South,Rice,Summer,2004,55881.0,184157,3.3
+WB_R00092,West Bengal,Paraganas South,Rice,Winter,2004,338291.0,720977,2.13
+WB_R00093,West Bengal,Paraganas South,Rice,Autumn,2005,2163.0,6267,2.9
+WB_R00094,West Bengal,Paraganas South,Rice,Summer,2005,54729.0,157009,2.87
+WB_R00095,West Bengal,Paraganas South,Rice,Winter,2005,339079.0,682030,2.01
+WB_R00096,West Bengal,Paraganas South,Rice,Autumn,2006,8002.0,18174,2.27
+WB_R00097,West Bengal,Paraganas South,Rice,Summer,2006,76956.0,229965,2.99
+WB_R00098,West Bengal,Paraganas South,Rice,Winter,2006,330060.0,662961,2.01
+WB_R00099,West Bengal,Paraganas South,Rice,Autumn,2007,780.0,1793,2.3
+WB_R00100,West Bengal,Paraganas South,Rice,Summer,2007,67424.0,225880,3.35
+WB_R00101,West Bengal,Paraganas South,Rice,Winter,2007,324295.0,569092,1.75
+WB_R00102,West Bengal,Paraganas South,Rice,Autumn,2008,4374.0,9064,2.07
+WB_R00103,West Bengal,Paraganas South,Rice,Summer,2008,70032.0,189306,2.7
+WB_R00104,West Bengal,Paraganas South,Rice,Winter,2008,341567.0,721518,2.11
+WB_R00105,West Bengal,Paraganas South,Rice,Autumn,2009,3375.0,7686,2.28
+WB_R00106,West Bengal,Paraganas South,Rice,Summer,2009,66402.0,176732,2.66
+WB_R00107,West Bengal,Paraganas South,Rice,Winter,2009,314183.0,620950,1.98
+WB_R00108,West Bengal,Paraganas South,Rice,Autumn,2010,5755.0,11330,1.97
+WB_R00109,West Bengal,Paraganas South,Rice,Summer,2010,68304.0,216360,3.17
+WB_R00110,West Bengal,Paraganas South,Rice,Winter,2010,297915.0,628668,2.11
+WB_R00111,West Bengal,Paraganas South,Rice,Autumn,2011,7396.0,17323,2.34
+WB_R00112,West Bengal,Paraganas South,Rice,Summer,2011,67579.0,215172,3.18
+WB_R00113,West Bengal,Paraganas South,Rice,Winter,2011,313946.0,670597,2.14
+WB_R00114,West Bengal,Paraganas South,Rice,Autumn,2012,3887.0,8958,2.3
+WB_R00115,West Bengal,Paraganas South,Rice,Summer,2012,60283.0,181321,3.01
+WB_R00116,West Bengal,Paraganas South,Rice,Winter,2012,314185.0,714056,2.27
+WB_R00117,West Bengal,Paraganas South,Rice,Autumn,2013,4033.0,10921,2.71
+WB_R00118,West Bengal,Paraganas South,Rice,Summer,2013,72967.0,231508,3.17
+WB_R00119,West Bengal,Paraganas South,Rice,Winter,2013,316815.0,747982,2.36
+WB_R00120,West Bengal,Paraganas South,Rice,Autumn,2014,5050.0,12760,2.53
+WB_R00121,West Bengal,Paraganas South,Rice,Summer,2014,63392.0,211431,3.34
+WB_R00122,West Bengal,Paraganas South,Rice,Winter,2014,325501.0,794541,2.44
+WB_R00123,West Bengal,Paraganas South,Rice,Autumn,2015,4034.0,6605,1.64
+WB_R00124,West Bengal,Paraganas South,Rice,Summer,2015,68388.0,226426,3.31
+WB_R00125,West Bengal,Paraganas South,Rice,Winter,2015,319534.0,689776,2.16
+WB_R00126,West Bengal,Paraganas South,Rice,Autumn,2016,4719.0,12170,2.58
+WB_R00127,West Bengal,Paraganas South,Rice,Summer,2016,57608.0,200641,3.48
+WB_R00128,West Bengal,Paraganas South,Rice,Winter,2016,295347.0,675605,2.29
+WB_R00129,West Bengal,Paraganas South,Rice,Autumn,2017,4198.0,10948,2.61
+WB_R00130,West Bengal,Paraganas South,Rice,Summer,2017,79312.0,284769,3.59
+WB_R00131,West Bengal,Paraganas South,Rice,Winter,2017,296842.0,705045,2.38
+WB_R00132,West Bengal,Paraganas South,Rice,Autumn,2018,4290.0,12067,2.81
+WB_R00133,West Bengal,Paraganas South,Rice,Summer,2018,71380.0,257652,3.61
+WB_R00134,West Bengal,Paraganas South,Rice,Winter,2018,328566.0,814128,2.48
+WB_R00135,West Bengal,Paraganas South,Rice,Autumn,2019,5192.0,15612,3.01
+WB_R00136,West Bengal,Paraganas South,Rice,Summer,2019,84726.0,333165,3.93
+WB_R00137,West Bengal,Paraganas South,Rice,Winter,2019,327620.0,668868,2.04
+WB_R00138,West Bengal,Alipurduar,Rice,Autumn,2016,13078.0,28719,2.2
+WB_R00139,West Bengal,Alipurduar,Rice,Summer,2016,3156.0,8940,2.83
+WB_R00140,West Bengal,Alipurduar,Rice,Winter,2016,63105.0,125269,1.99
+WB_R00141,West Bengal,Alipurduar,Rice,Autumn,2017,12684.0,28376,2.24
+WB_R00142,West Bengal,Alipurduar,Rice,Summer,2017,3312.0,10027,3.03
+WB_R00143,West Bengal,Alipurduar,Rice,Winter,2017,63895.0,139447,2.18
+WB_R00144,West Bengal,Alipurduar,Rice,Autumn,2018,11250.0,19417,1.73
+WB_R00145,West Bengal,Alipurduar,Rice,Summer,2018,4071.0,12647,3.11
+WB_R00146,West Bengal,Alipurduar,Rice,Winter,2018,62655.0,133396,2.13
+WB_R00147,West Bengal,Alipurduar,Rice,Autumn,2019,12210.0,24030,1.97
+WB_R00148,West Bengal,Alipurduar,Rice,Summer,2019,4575.0,14016,3.06
+WB_R00149,West Bengal,Alipurduar,Rice,Winter,2019,64559.0,155727,2.41
+WB_R00150,West Bengal,Bankura,Rice,Autumn,1997,38211.0,88120,2.31
+WB_R00151,West Bengal,Bankura,Rice,Summer,1997,44617.0,135640,3.04
+WB_R00152,West Bengal,Bankura,Rice,Winter,1997,354447.0,973590,2.75
+WB_R00153,West Bengal,Bankura,Rice,Autumn,1998,34676.0,84680,2.44
+WB_R00154,West Bengal,Bankura,Rice,Summer,1998,56806.0,151825,2.67
+WB_R00155,West Bengal,Bankura,Rice,Winter,1998,294528.0,692470,2.35
+WB_R00156,West Bengal,Bankura,Rice,Autumn,1999,33206.0,76320,2.3
+WB_R00157,West Bengal,Bankura,Rice,Summer,1999,46486.0,126610,2.72
+WB_R00158,West Bengal,Bankura,Rice,Winter,1999,332424.0,794130,2.39
+WB_R00159,West Bengal,Bankura,Rice,Autumn,2000,22835.0,50450,2.21
+WB_R00160,West Bengal,Bankura,Rice,Summer,2000,39297.0,130899,3.33
+WB_R00161,West Bengal,Bankura,Rice,Winter,2000,333437.0,812060,2.44
+WB_R00162,West Bengal,Bankura,Rice,Autumn,2001,27144.0,69067,2.54
+WB_R00163,West Bengal,Bankura,Rice,Summer,2001,57043.0,140037,2.45
+WB_R00164,West Bengal,Bankura,Rice,Winter,2001,352283.0,1013371,2.88
+WB_R00165,West Bengal,Bankura,Rice,Autumn,2002,21786.0,59915,2.75
+WB_R00166,West Bengal,Bankura,Rice,Summer,2002,37953.0,113138,2.98
+WB_R00167,West Bengal,Bankura,Rice,Winter,2002,260685.0,756459,2.9
+WB_R00168,West Bengal,Bankura,Rice,Autumn,2003,20292.0,54153,2.67
+WB_R00169,West Bengal,Bankura,Rice,Summer,2003,35247.0,105837,3.0
+WB_R00170,West Bengal,Bankura,Rice,Winter,2003,264939.0,706993,2.67
+WB_R00171,West Bengal,Bankura,Rice,Autumn,2004,19366.0,53030,2.74
+WB_R00172,West Bengal,Bankura,Rice,Summer,2004,39644.0,102938,2.6
+WB_R00173,West Bengal,Bankura,Rice,Winter,2004,287815.0,802518,2.79
+WB_R00174,West Bengal,Bankura,Rice,Autumn,2005,15721.0,39188,2.49
+WB_R00175,West Bengal,Bankura,Rice,Summer,2005,55091.0,127113,2.31
+WB_R00176,West Bengal,Bankura,Rice,Winter,2005,316127.0,847144,2.68
+WB_R00177,West Bengal,Bankura,Rice,Autumn,2006,20337.0,53240,2.62
+WB_R00178,West Bengal,Bankura,Rice,Summer,2006,50430.0,139200,2.76
+WB_R00179,West Bengal,Bankura,Rice,Winter,2006,336129.0,945567,2.81
+WB_R00180,West Bengal,Bankura,Rice,Autumn,2007,20445.0,55077,2.69
+WB_R00181,West Bengal,Bankura,Rice,Summer,2007,67600.0,192173,2.84
+WB_R00182,West Bengal,Bankura,Rice,Winter,2007,328783.0,926283,2.82
+WB_R00183,West Bengal,Bankura,Rice,Autumn,2008,20880.0,55169,2.64
+WB_R00184,West Bengal,Bankura,Rice,Summer,2008,46705.0,128304,2.75
+WB_R00185,West Bengal,Bankura,Rice,Winter,2008,303565.0,842313,2.77
+WB_R00186,West Bengal,Bankura,Rice,Autumn,2009,13467.0,40636,3.02
+WB_R00187,West Bengal,Bankura,Rice,Summer,2009,45623.0,119400,2.62
+WB_R00188,West Bengal,Bankura,Rice,Winter,2009,318205.0,844882,2.66
+WB_R00189,West Bengal,Bankura,Rice,Autumn,2010,12991.0,29828,2.3
+WB_R00190,West Bengal,Bankura,Rice,Summer,2010,37048.0,110442,2.98
+WB_R00191,West Bengal,Bankura,Rice,Winter,2010,147983.0,367221,2.48
+WB_R00192,West Bengal,Bankura,Rice,Autumn,2011,16517.0,45377,2.75
+WB_R00193,West Bengal,Bankura,Rice,Summer,2011,42505.0,104441,2.46
+WB_R00194,West Bengal,Bankura,Rice,Winter,2011,317968.0,969693,3.05
+WB_R00195,West Bengal,Bankura,Rice,Autumn,2012,19012.0,55954,2.94
+WB_R00196,West Bengal,Bankura,Rice,Summer,2012,34831.0,113038,3.25
+WB_R00197,West Bengal,Bankura,Rice,Winter,2012,322444.0,864752,2.68
+WB_R00198,West Bengal,Bankura,Rice,Autumn,2013,19717.0,50308,2.55
+WB_R00199,West Bengal,Bankura,Rice,Summer,2013,40009.0,120562,3.01
+WB_R00200,West Bengal,Bankura,Rice,Winter,2013,317884.0,874486,2.75
+WB_R00201,West Bengal,Bankura,Rice,Autumn,2014,21698.0,68762,3.17
+WB_R00202,West Bengal,Bankura,Rice,Summer,2014,40185.0,120678,3.0
+WB_R00203,West Bengal,Bankura,Rice,Winter,2014,294204.0,794716,2.7
+WB_R00204,West Bengal,Bankura,Rice,Autumn,2015,19164.0,56819,2.96
+WB_R00205,West Bengal,Bankura,Rice,Summer,2015,40379.0,124587,3.09
+WB_R00206,West Bengal,Bankura,Rice,Winter,2015,301070.0,809237,2.69
+WB_R00207,West Bengal,Bankura,Rice,Autumn,2016,21971.0,59208,2.69
+WB_R00208,West Bengal,Bankura,Rice,Summer,2016,44667.0,145354,3.25
+WB_R00209,West Bengal,Bankura,Rice,Winter,2016,309989.0,853677,2.75
+WB_R00210,West Bengal,Bankura,Rice,Autumn,2017,21109.0,55196,2.61
+WB_R00211,West Bengal,Bankura,Rice,Summer,2017,49343.0,168128,3.41
+WB_R00212,West Bengal,Bankura,Rice,Winter,2017,314162.0,858161,2.73
+WB_R00213,West Bengal,Bankura,Rice,Autumn,2018,24554.0,68551,2.79
+WB_R00214,West Bengal,Bankura,Rice,Summer,2018,43147.0,125386,2.91
+WB_R00215,West Bengal,Bankura,Rice,Winter,2018,316502.0,727999,2.3
+WB_R00216,West Bengal,Bankura,Rice,Autumn,2019,21699.0,53991,2.49
+WB_R00217,West Bengal,Bankura,Rice,Summer,2019,52507.0,151641,2.89
+WB_R00218,West Bengal,Bankura,Rice,Winter,2019,312379.0,791704,2.53
+WB_R00219,West Bengal,Birbhum,Rice,Autumn,1997,8342.0,20290,2.43
+WB_R00220,West Bengal,Birbhum,Rice,Summer,1997,50150.0,158930,3.17
+WB_R00221,West Bengal,Birbhum,Rice,Winter,1997,309991.0,840840,2.71
+WB_R00222,West Bengal,Birbhum,Rice,Autumn,1998,8863.0,25360,2.86
+WB_R00223,West Bengal,Birbhum,Rice,Summer,1998,77540.0,272109,3.51
+WB_R00224,West Bengal,Birbhum,Rice,Winter,1998,312904.0,890320,2.85
+WB_R00225,West Bengal,Birbhum,Rice,Autumn,1999,9372.0,20880,2.23
+WB_R00226,West Bengal,Birbhum,Rice,Summer,1999,77587.0,238310,3.07
+WB_R00227,West Bengal,Birbhum,Rice,Winter,1999,307150.0,783310,2.55
+WB_R00228,West Bengal,Birbhum,Rice,Autumn,2000,5009.0,10440,2.08
+WB_R00229,West Bengal,Birbhum,Rice,Summer,2000,51428.0,176926,3.44
+WB_R00230,West Bengal,Birbhum,Rice,Winter,2000,261748.0,609130,2.33
+WB_R00231,West Bengal,Birbhum,Rice,Autumn,2001,6476.0,15614,2.41
+WB_R00232,West Bengal,Birbhum,Rice,Summer,2001,79669.0,229871,2.89
+WB_R00233,West Bengal,Birbhum,Rice,Winter,2001,307985.0,911950,2.96
+WB_R00234,West Bengal,Birbhum,Rice,Autumn,2002,6305.0,16769,2.66
+WB_R00235,West Bengal,Birbhum,Rice,Summer,2002,79468.0,227690,2.87
+WB_R00236,West Bengal,Birbhum,Rice,Winter,2002,315681.0,902095,2.86
+WB_R00237,West Bengal,Birbhum,Rice,Autumn,2003,5091.0,12214,2.4
+WB_R00238,West Bengal,Birbhum,Rice,Summer,2003,70571.0,220062,3.12
+WB_R00239,West Bengal,Birbhum,Rice,Winter,2003,300623.0,878083,2.92
+WB_R00240,West Bengal,Birbhum,Rice,Autumn,2004,5149.0,13174,2.56
+WB_R00241,West Bengal,Birbhum,Rice,Summer,2004,74007.0,219514,2.97
+WB_R00242,West Bengal,Birbhum,Rice,Winter,2004,308737.0,855316,2.77
+WB_R00243,West Bengal,Birbhum,Rice,Autumn,2005,5233.0,12986,2.48
+WB_R00244,West Bengal,Birbhum,Rice,Summer,2005,48836.0,154942,3.17
+WB_R00245,West Bengal,Birbhum,Rice,Winter,2005,314476.0,948410,3.02
+WB_R00246,West Bengal,Birbhum,Rice,Autumn,2006,6086.0,15768,2.59
+WB_R00247,West Bengal,Birbhum,Rice,Summer,2006,64521.0,223353,3.46
+WB_R00248,West Bengal,Birbhum,Rice,Winter,2006,312799.0,960320,3.07
+WB_R00249,West Bengal,Birbhum,Rice,Autumn,2007,4788.0,12599,2.63
+WB_R00250,West Bengal,Birbhum,Rice,Summer,2007,74238.0,249379,3.36
+WB_R00251,West Bengal,Birbhum,Rice,Winter,2007,314944.0,958708,3.04
+WB_R00252,West Bengal,Birbhum,Rice,Autumn,2008,4578.0,12512,2.73
+WB_R00253,West Bengal,Birbhum,Rice,Summer,2008,81387.0,268153,3.29
+WB_R00254,West Bengal,Birbhum,Rice,Winter,2008,307871.0,931728,3.03
+WB_R00255,West Bengal,Birbhum,Rice,Autumn,2009,1840.0,5464,2.97
+WB_R00256,West Bengal,Birbhum,Rice,Summer,2009,54678.0,149905,2.74
+WB_R00257,West Bengal,Birbhum,Rice,Winter,2009,301071.0,805180,2.67
+WB_R00258,West Bengal,Birbhum,Rice,Autumn,2010,2619.0,7105,2.71
+WB_R00259,West Bengal,Birbhum,Rice,Summer,2010,59448.0,201392,3.39
+WB_R00260,West Bengal,Birbhum,Rice,Winter,2010,186962.0,539456,2.89
+WB_R00261,West Bengal,Birbhum,Rice,Autumn,2011,2554.0,5902,2.31
+WB_R00262,West Bengal,Birbhum,Rice,Summer,2011,57912.0,180053,3.11
+WB_R00263,West Bengal,Birbhum,Rice,Winter,2011,326412.0,940842,2.88
+WB_R00264,West Bengal,Birbhum,Rice,Autumn,2012,2477.0,6209,2.51
+WB_R00265,West Bengal,Birbhum,Rice,Summer,2012,57118.0,201202,3.52
+WB_R00266,West Bengal,Birbhum,Rice,Winter,2012,312496.0,876823,2.81
+WB_R00267,West Bengal,Birbhum,Rice,Autumn,2013,2763.0,6327,2.29
+WB_R00268,West Bengal,Birbhum,Rice,Summer,2013,59586.0,203027,3.41
+WB_R00269,West Bengal,Birbhum,Rice,Winter,2013,322256.0,1064745,3.3
+WB_R00270,West Bengal,Birbhum,Rice,Autumn,2014,2585.0,6721,2.6
+WB_R00271,West Bengal,Birbhum,Rice,Summer,2014,66581.0,225789,3.39
+WB_R00272,West Bengal,Birbhum,Rice,Winter,2014,315561.0,1029374,3.26
+WB_R00273,West Bengal,Birbhum,Rice,Autumn,2015,2432.0,7908,3.25
+WB_R00274,West Bengal,Birbhum,Rice,Summer,2015,73066.0,253114,3.46
+WB_R00275,West Bengal,Birbhum,Rice,Winter,2015,324014.0,1079645,3.33
+WB_R00276,West Bengal,Birbhum,Rice,Autumn,2016,6224.0,18204,2.92
+WB_R00277,West Bengal,Birbhum,Rice,Summer,2016,66976.0,229615,3.43
+WB_R00278,West Bengal,Birbhum,Rice,Winter,2016,328427.0,1061204,3.23
+WB_R00279,West Bengal,Birbhum,Rice,Autumn,2017,5915.0,17033,2.88
+WB_R00280,West Bengal,Birbhum,Rice,Summer,2017,88290.0,299182,3.39
+WB_R00281,West Bengal,Birbhum,Rice,Winter,2017,329608.0,1059891,3.22
+WB_R00282,West Bengal,Birbhum,Rice,Autumn,2018,5533.0,17301,3.13
+WB_R00283,West Bengal,Birbhum,Rice,Summer,2018,63867.0,222538,3.48
+WB_R00284,West Bengal,Birbhum,Rice,Winter,2018,318965.0,957822,3.0
+WB_R00285,West Bengal,Birbhum,Rice,Autumn,2019,4537.0,13385,2.95
+WB_R00286,West Bengal,Birbhum,Rice,Summer,2019,77286.0,295183,3.82
+WB_R00287,West Bengal,Birbhum,Rice,Winter,2019,305350.0,1025442,3.36
+WB_R00288,West Bengal,Coochbehar,Rice,Autumn,1997,34950.0,53050,1.52
+WB_R00289,West Bengal,Coochbehar,Rice,Summer,1997,16269.0,38900,2.39
+WB_R00290,West Bengal,Coochbehar,Rice,Winter,1997,222464.0,277140,1.25
+WB_R00291,West Bengal,Coochbehar,Rice,Autumn,1998,32968.0,43650,1.32
+WB_R00292,West Bengal,Coochbehar,Rice,Summer,1998,27046.0,83091,3.07
+WB_R00293,West Bengal,Coochbehar,Rice,Winter,1998,222381.0,242130,1.09
+WB_R00294,West Bengal,Coochbehar,Rice,Autumn,1999,33848.0,53380,1.58
+WB_R00295,West Bengal,Coochbehar,Rice,Summer,1999,29461.0,80980,2.75
+WB_R00296,West Bengal,Coochbehar,Rice,Winter,1999,228943.0,305410,1.33
+WB_R00297,West Bengal,Coochbehar,Rice,Autumn,2000,30475.0,48730,1.6
+WB_R00298,West Bengal,Coochbehar,Rice,Summer,2000,28442.0,73683,2.59
+WB_R00299,West Bengal,Coochbehar,Rice,Winter,2000,232980.0,394870,1.69
+WB_R00300,West Bengal,Coochbehar,Rice,Autumn,2001,28554.0,44807,1.57
+WB_R00301,West Bengal,Coochbehar,Rice,Summer,2001,28214.0,69654,2.47
+WB_R00302,West Bengal,Coochbehar,Rice,Winter,2001,222425.0,352220,1.58
+WB_R00303,West Bengal,Coochbehar,Rice,Autumn,2002,22774.0,35727,1.57
+WB_R00304,West Bengal,Coochbehar,Rice,Summer,2002,27747.0,64491,2.32
+WB_R00305,West Bengal,Coochbehar,Rice,Winter,2002,222609.0,357423,1.61
+WB_R00306,West Bengal,Coochbehar,Rice,Autumn,2003,17369.0,30968,1.78
+WB_R00307,West Bengal,Coochbehar,Rice,Summer,2003,35750.0,90233,2.52
+WB_R00308,West Bengal,Coochbehar,Rice,Winter,2003,223111.0,394216,1.77
+WB_R00309,West Bengal,Coochbehar,Rice,Autumn,2004,14031.0,18116,1.29
+WB_R00310,West Bengal,Coochbehar,Rice,Summer,2004,38783.0,88965,2.29
+WB_R00311,West Bengal,Coochbehar,Rice,Winter,2004,216497.0,366064,1.69
+WB_R00312,West Bengal,Coochbehar,Rice,Autumn,2005,12032.0,17728,1.47
+WB_R00313,West Bengal,Coochbehar,Rice,Summer,2005,33222.0,78806,2.37
+WB_R00314,West Bengal,Coochbehar,Rice,Winter,2005,235239.0,449044,1.91
+WB_R00315,West Bengal,Coochbehar,Rice,Autumn,2006,12407.0,10987,0.89
+WB_R00316,West Bengal,Coochbehar,Rice,Summer,2006,30049.0,83386,2.78
+WB_R00317,West Bengal,Coochbehar,Rice,Winter,2006,196996.0,351419,1.78
+WB_R00318,West Bengal,Coochbehar,Rice,Autumn,2007,12303.0,16627,1.35
+WB_R00319,West Bengal,Coochbehar,Rice,Summer,2007,50357.0,147655,2.93
+WB_R00320,West Bengal,Coochbehar,Rice,Winter,2007,230836.0,354548,1.54
+WB_R00321,West Bengal,Coochbehar,Rice,Autumn,2008,12953.0,21467,1.66
+WB_R00322,West Bengal,Coochbehar,Rice,Summer,2008,67270.0,114835,1.71
+WB_R00323,West Bengal,Coochbehar,Rice,Winter,2008,229612.0,364084,1.59
+WB_R00324,West Bengal,Coochbehar,Rice,Autumn,2009,4090.0,5885,1.44
+WB_R00325,West Bengal,Coochbehar,Rice,Summer,2009,51428.0,144105,2.8
+WB_R00326,West Bengal,Coochbehar,Rice,Winter,2009,218509.0,411030,1.88
+WB_R00327,West Bengal,Coochbehar,Rice,Autumn,2010,1733.0,2756,1.59
+WB_R00328,West Bengal,Coochbehar,Rice,Summer,2010,51338.0,148435,2.89
+WB_R00329,West Bengal,Coochbehar,Rice,Winter,2010,222220.0,505675,2.28
+WB_R00330,West Bengal,Coochbehar,Rice,Autumn,2011,4218.0,6923,1.64
+WB_R00331,West Bengal,Coochbehar,Rice,Summer,2011,49330.0,141713,2.87
+WB_R00332,West Bengal,Coochbehar,Rice,Winter,2011,219727.0,452052,2.06
+WB_R00333,West Bengal,Coochbehar,Rice,Autumn,2012,4214.0,6367,1.51
+WB_R00334,West Bengal,Coochbehar,Rice,Summer,2012,53869.0,176821,3.28
+WB_R00335,West Bengal,Coochbehar,Rice,Winter,2012,219730.0,487072,2.22
+WB_R00336,West Bengal,Coochbehar,Rice,Autumn,2013,4170.0,7106,1.7
+WB_R00337,West Bengal,Coochbehar,Rice,Summer,2013,56109.0,180652,3.22
+WB_R00338,West Bengal,Coochbehar,Rice,Winter,2013,212855.0,540216,2.54
+WB_R00339,West Bengal,Coochbehar,Rice,Autumn,2014,4050.0,7113,1.76
+WB_R00340,West Bengal,Coochbehar,Rice,Summer,2014,56294.0,197210,3.5
+WB_R00341,West Bengal,Coochbehar,Rice,Winter,2014,217046.0,515777,2.38
+WB_R00342,West Bengal,Coochbehar,Rice,Autumn,2015,4084.0,7271,1.78
+WB_R00343,West Bengal,Coochbehar,Rice,Summer,2015,55632.0,189632,3.41
+WB_R00344,West Bengal,Coochbehar,Rice,Winter,2015,210429.0,525329,2.5
+WB_R00345,West Bengal,Coochbehar,Rice,Autumn,2016,4529.0,8209,1.81
+WB_R00346,West Bengal,Coochbehar,Rice,Summer,2016,55394.0,190924,3.45
+WB_R00347,West Bengal,Coochbehar,Rice,Winter,2016,210831.0,506572,2.4
+WB_R00348,West Bengal,Coochbehar,Rice,Autumn,2017,4591.0,8197,1.79
+WB_R00349,West Bengal,Coochbehar,Rice,Summer,2017,54927.0,209273,3.81
+WB_R00350,West Bengal,Coochbehar,Rice,Winter,2017,213535.0,527733,2.47
+WB_R00351,West Bengal,Coochbehar,Rice,Autumn,2018,6779.0,14431,2.13
+WB_R00352,West Bengal,Coochbehar,Rice,Summer,2018,50449.0,191946,3.8
+WB_R00353,West Bengal,Coochbehar,Rice,Winter,2018,230368.0,631578,2.74
+WB_R00354,West Bengal,Coochbehar,Rice,Autumn,2019,5161.0,9402,1.82
+WB_R00355,West Bengal,Coochbehar,Rice,Summer,2019,43100.0,162672,3.77
+WB_R00356,West Bengal,Coochbehar,Rice,Winter,2019,226607.0,663279,2.93
+WB_R00357,West Bengal,Darjeeling,Rice,Autumn,1997,6540.0,4230,0.65
+WB_R00358,West Bengal,Darjeeling,Rice,Summer,1997,125.0,350,2.8
+WB_R00359,West Bengal,Darjeeling,Rice,Winter,1997,28884.0,34960,1.21
+WB_R00360,West Bengal,Darjeeling,Rice,Autumn,1998,6190.0,5460,0.88
+WB_R00361,West Bengal,Darjeeling,Rice,Summer,1998,394.0,1379,3.5
+WB_R00362,West Bengal,Darjeeling,Rice,Winter,1998,29856.0,32490,1.09
+WB_R00363,West Bengal,Darjeeling,Rice,Autumn,1999,5213.0,7540,1.45
+WB_R00364,West Bengal,Darjeeling,Rice,Summer,1999,392.0,1060,2.7
+WB_R00365,West Bengal,Darjeeling,Rice,Winter,1999,30056.0,42850,1.43
+WB_R00366,West Bengal,Darjeeling,Rice,Autumn,2000,5369.0,8210,1.53
+WB_R00367,West Bengal,Darjeeling,Rice,Summer,2000,469.0,1213,2.59
+WB_R00368,West Bengal,Darjeeling,Rice,Winter,2000,28303.0,43470,1.54
+WB_R00369,West Bengal,Darjeeling,Rice,Autumn,2001,6125.0,8821,1.44
+WB_R00370,West Bengal,Darjeeling,Rice,Summer,2001,1025.0,2096,2.04
+WB_R00371,West Bengal,Darjeeling,Rice,Winter,2001,28857.0,48309,1.67
+WB_R00372,West Bengal,Darjeeling,Rice,Autumn,2002,5914.0,9317,1.58
+WB_R00373,West Bengal,Darjeeling,Rice,Summer,2002,1604.0,2569,1.6
+WB_R00374,West Bengal,Darjeeling,Rice,Winter,2002,29136.0,48718,1.67
+WB_R00375,West Bengal,Darjeeling,Rice,Autumn,2003,5532.0,9152,1.65
+WB_R00376,West Bengal,Darjeeling,Rice,Summer,2003,1215.0,2503,2.06
+WB_R00377,West Bengal,Darjeeling,Rice,Winter,2003,28591.0,53179,1.86
+WB_R00378,West Bengal,Darjeeling,Rice,Autumn,2004,4891.0,1581,0.32
+WB_R00379,West Bengal,Darjeeling,Rice,Summer,2004,1177.0,2248,1.91
+WB_R00380,West Bengal,Darjeeling,Rice,Winter,2004,28878.0,44083,1.53
+WB_R00381,West Bengal,Darjeeling,Rice,Autumn,2005,4376.0,6964,1.59
+WB_R00382,West Bengal,Darjeeling,Rice,Summer,2005,1288.0,2408,1.87
+WB_R00383,West Bengal,Darjeeling,Rice,Winter,2005,28859.0,49262,1.71
+WB_R00384,West Bengal,Darjeeling,Rice,Autumn,2006,4356.0,8888,2.04
+WB_R00385,West Bengal,Darjeeling,Rice,Summer,2006,1536.0,3181,2.07
+WB_R00386,West Bengal,Darjeeling,Rice,Winter,2006,25536.0,46585,1.82
+WB_R00387,West Bengal,Darjeeling,Rice,Autumn,2007,3818.0,6193,1.62
+WB_R00388,West Bengal,Darjeeling,Rice,Summer,2007,1498.0,3659,2.44
+WB_R00389,West Bengal,Darjeeling,Rice,Winter,2007,26905.0,49572,1.84
+WB_R00390,West Bengal,Darjeeling,Rice,Autumn,2008,3615.0,5904,1.63
+WB_R00391,West Bengal,Darjeeling,Rice,Summer,2008,1526.0,3204,2.1
+WB_R00392,West Bengal,Darjeeling,Rice,Winter,2008,27318.0,59556,2.18
+WB_R00393,West Bengal,Darjeeling,Rice,Autumn,2009,3549.0,7621,2.15
+WB_R00394,West Bengal,Darjeeling,Rice,Summer,2009,1499.0,3406,2.27
+WB_R00395,West Bengal,Darjeeling,Rice,Winter,2009,27250.0,64401,2.36
+WB_R00396,West Bengal,Darjeeling,Rice,Autumn,2010,3451.0,8181,2.37
+WB_R00397,West Bengal,Darjeeling,Rice,Summer,2010,1533.0,3981,2.6
+WB_R00398,West Bengal,Darjeeling,Rice,Winter,2010,27278.0,65640,2.41
+WB_R00399,West Bengal,Darjeeling,Rice,Autumn,2011,3468.0,6461,1.86
+WB_R00400,West Bengal,Darjeeling,Rice,Summer,2011,1579.0,4299,2.72
+WB_R00401,West Bengal,Darjeeling,Rice,Winter,2011,27242.0,60576,2.22
+WB_R00402,West Bengal,Darjeeling,Rice,Autumn,2012,3478.0,4977,1.43
+WB_R00403,West Bengal,Darjeeling,Rice,Summer,2012,1630.0,3677,2.26
+WB_R00404,West Bengal,Darjeeling,Rice,Winter,2012,27311.0,58903,2.16
+WB_R00405,West Bengal,Darjeeling,Rice,Autumn,2013,3512.0,6823,1.94
+WB_R00406,West Bengal,Darjeeling,Rice,Summer,2013,1638.0,3354,2.05
+WB_R00407,West Bengal,Darjeeling,Rice,Winter,2013,27005.0,62125,2.3
+WB_R00408,West Bengal,Darjeeling,Rice,Autumn,2014,3910.0,8158,2.09
+WB_R00409,West Bengal,Darjeeling,Rice,Summer,2014,1516.0,3437,2.27
+WB_R00410,West Bengal,Darjeeling,Rice,Winter,2014,27135.0,56945,2.1
+WB_R00411,West Bengal,Darjeeling,Rice,Autumn,2015,3914.0,9185,2.35
+WB_R00412,West Bengal,Darjeeling,Rice,Summer,2015,1586.0,3680,2.32
+WB_R00413,West Bengal,Darjeeling,Rice,Winter,2015,27094.0,64081,2.37
+WB_R00414,West Bengal,Darjeeling,Rice,Autumn,2016,3905.0,8862,2.27
+WB_R00415,West Bengal,Darjeeling,Rice,Summer,2016,2421.0,5836,2.41
+WB_R00416,West Bengal,Darjeeling,Rice,Winter,2016,20978.0,45502,2.17
+WB_R00417,West Bengal,Darjeeling,Rice,Autumn,2017,3885.0,7631,1.96
+WB_R00418,West Bengal,Darjeeling,Rice,Summer,2017,2318.0,5567,2.4
+WB_R00419,West Bengal,Darjeeling,Rice,Winter,2017,22067.0,52385,2.37
+WB_R00420,West Bengal,Darjeeling,Rice,Autumn,2018,3328.0,7096,2.13
+WB_R00421,West Bengal,Darjeeling,Rice,Summer,2018,2121.0,6506,3.07
+WB_R00422,West Bengal,Darjeeling,Rice,Winter,2018,20995.0,49512,2.36
+WB_R00423,West Bengal,Darjeeling,Rice,Autumn,2019,2953.0,6084,2.06
+WB_R00424,West Bengal,Darjeeling,Rice,Summer,2019,2222.0,6199,2.79
+WB_R00425,West Bengal,Darjeeling,Rice,Winter,2019,20394.0,54399,2.67
+WB_R00426,West Bengal,Dinajpur Dakshin,Rice,Autumn,1997,4783.0,4890,1.02
+WB_R00427,West Bengal,Dinajpur Dakshin,Rice,Summer,1997,17674.0,47620,2.69
+WB_R00428,West Bengal,Dinajpur Dakshin,Rice,Winter,1997,174850.0,357070,2.04
+WB_R00429,West Bengal,Dinajpur Dakshin,Rice,Autumn,1998,5095.0,11280,2.21
+WB_R00430,West Bengal,Dinajpur Dakshin,Rice,Summer,1998,36514.0,126731,3.47
+WB_R00431,West Bengal,Dinajpur Dakshin,Rice,Winter,1998,169845.0,325470,1.92
+WB_R00432,West Bengal,Dinajpur Dakshin,Rice,Autumn,1999,9134.0,15710,1.72
+WB_R00433,West Bengal,Dinajpur Dakshin,Rice,Summer,1999,36292.0,99720,2.75
+WB_R00434,West Bengal,Dinajpur Dakshin,Rice,Winter,1999,171991.0,307930,1.79
+WB_R00435,West Bengal,Dinajpur Dakshin,Rice,Autumn,2000,7353.0,13130,1.79
+WB_R00436,West Bengal,Dinajpur Dakshin,Rice,Summer,2000,37395.0,116211,3.11
+WB_R00437,West Bengal,Dinajpur Dakshin,Rice,Winter,2000,165989.0,338010,2.04
+WB_R00438,West Bengal,Dinajpur Dakshin,Rice,Autumn,2001,8958.0,14952,1.67
+WB_R00439,West Bengal,Dinajpur Dakshin,Rice,Summer,2001,37634.0,100882,2.68
+WB_R00440,West Bengal,Dinajpur Dakshin,Rice,Winter,2001,164688.0,309544,1.88
+WB_R00441,West Bengal,Dinajpur Dakshin,Rice,Autumn,2002,8600.0,12129,1.41
+WB_R00442,West Bengal,Dinajpur Dakshin,Rice,Summer,2002,36812.0,96463,2.62
+WB_R00443,West Bengal,Dinajpur Dakshin,Rice,Winter,2002,163102.0,353361,2.17
+WB_R00444,West Bengal,Dinajpur Dakshin,Rice,Autumn,2003,9267.0,17055,1.84
+WB_R00445,West Bengal,Dinajpur Dakshin,Rice,Summer,2003,37855.0,110582,2.92
+WB_R00446,West Bengal,Dinajpur Dakshin,Rice,Winter,2003,165217.0,391957,2.37
+WB_R00447,West Bengal,Dinajpur Dakshin,Rice,Autumn,2004,9097.0,16868,1.85
+WB_R00448,West Bengal,Dinajpur Dakshin,Rice,Summer,2004,40173.0,118905,2.96
+WB_R00449,West Bengal,Dinajpur Dakshin,Rice,Winter,2004,167135.0,414757,2.48
+WB_R00450,West Bengal,Dinajpur Dakshin,Rice,Autumn,2005,10972.0,19693,1.79
+WB_R00451,West Bengal,Dinajpur Dakshin,Rice,Summer,2005,41368.0,113361,2.74
+WB_R00452,West Bengal,Dinajpur Dakshin,Rice,Winter,2005,159343.0,386280,2.42
+WB_R00453,West Bengal,Dinajpur Dakshin,Rice,Autumn,2006,10404.0,18185,1.75
+WB_R00454,West Bengal,Dinajpur Dakshin,Rice,Summer,2006,42300.0,133787,3.16
+WB_R00455,West Bengal,Dinajpur Dakshin,Rice,Winter,2006,132407.0,294431,2.22
+WB_R00456,West Bengal,Dinajpur Dakshin,Rice,Autumn,2007,7296.0,14641,2.01
+WB_R00457,West Bengal,Dinajpur Dakshin,Rice,Summer,2007,42674.0,122512,2.87
+WB_R00458,West Bengal,Dinajpur Dakshin,Rice,Winter,2007,147939.0,354857,2.4
+WB_R00459,West Bengal,Dinajpur Dakshin,Rice,Autumn,2008,7328.0,15288,2.09
+WB_R00460,West Bengal,Dinajpur Dakshin,Rice,Summer,2008,43306.0,137644,3.18
+WB_R00461,West Bengal,Dinajpur Dakshin,Rice,Winter,2008,154650.0,348657,2.25
+WB_R00462,West Bengal,Dinajpur Dakshin,Rice,Autumn,2009,5170.0,8705,1.68
+WB_R00463,West Bengal,Dinajpur Dakshin,Rice,Summer,2009,35276.0,94451,2.68
+WB_R00464,West Bengal,Dinajpur Dakshin,Rice,Winter,2009,149940.0,360599,2.4
+WB_R00465,West Bengal,Dinajpur Dakshin,Rice,Autumn,2010,3571.0,7729,2.16
+WB_R00466,West Bengal,Dinajpur Dakshin,Rice,Summer,2010,34597.0,105254,3.04
+WB_R00467,West Bengal,Dinajpur Dakshin,Rice,Winter,2010,151578.0,447713,2.95
+WB_R00468,West Bengal,Dinajpur Dakshin,Rice,Autumn,2011,2110.0,4457,2.11
+WB_R00469,West Bengal,Dinajpur Dakshin,Rice,Summer,2011,30807.0,90832,2.95
+WB_R00470,West Bengal,Dinajpur Dakshin,Rice,Winter,2011,149572.0,374181,2.5
+WB_R00471,West Bengal,Dinajpur Dakshin,Rice,Autumn,2012,936.0,1667,1.78
+WB_R00472,West Bengal,Dinajpur Dakshin,Rice,Summer,2012,21908.0,68722,3.14
+WB_R00473,West Bengal,Dinajpur Dakshin,Rice,Winter,2012,158532.0,440334,2.78
+WB_R00474,West Bengal,Dinajpur Dakshin,Rice,Autumn,2013,891.0,1646,1.85
+WB_R00475,West Bengal,Dinajpur Dakshin,Rice,Summer,2013,21560.0,70157,3.25
+WB_R00476,West Bengal,Dinajpur Dakshin,Rice,Winter,2013,157471.0,442904,2.81
+WB_R00477,West Bengal,Dinajpur Dakshin,Rice,Autumn,2014,884.0,1726,1.95
+WB_R00478,West Bengal,Dinajpur Dakshin,Rice,Summer,2014,16722.0,56152,3.36
+WB_R00479,West Bengal,Dinajpur Dakshin,Rice,Winter,2014,163582.0,462884,2.83
+WB_R00480,West Bengal,Dinajpur Dakshin,Rice,Autumn,2015,985.0,1762,1.79
+WB_R00481,West Bengal,Dinajpur Dakshin,Rice,Summer,2015,17913.0,60503,3.38
+WB_R00482,West Bengal,Dinajpur Dakshin,Rice,Winter,2015,168319.0,497713,2.96
+WB_R00483,West Bengal,Dinajpur Dakshin,Rice,Autumn,2016,902.0,2266,2.51
+WB_R00484,West Bengal,Dinajpur Dakshin,Rice,Summer,2016,18268.0,62189,3.4
+WB_R00485,West Bengal,Dinajpur Dakshin,Rice,Winter,2016,161835.0,473198,2.92
+WB_R00486,West Bengal,Dinajpur Dakshin,Rice,Autumn,2017,954.0,2428,2.55
+WB_R00487,West Bengal,Dinajpur Dakshin,Rice,Summer,2017,24420.0,80505,3.3
+WB_R00488,West Bengal,Dinajpur Dakshin,Rice,Winter,2017,163467.0,475216,2.91
+WB_R00489,West Bengal,Dinajpur Dakshin,Rice,Autumn,2018,618.0,1757,2.84
+WB_R00490,West Bengal,Dinajpur Dakshin,Rice,Summer,2018,27436.0,92916,3.39
+WB_R00491,West Bengal,Dinajpur Dakshin,Rice,Winter,2018,158208.0,482439,3.05
+WB_R00492,West Bengal,Dinajpur Dakshin,Rice,Autumn,2019,706.0,1888,2.67
+WB_R00493,West Bengal,Dinajpur Dakshin,Rice,Summer,2019,17701.0,57777,3.26
+WB_R00494,West Bengal,Dinajpur Dakshin,Rice,Winter,2019,159088.0,495781,3.12
+WB_R00495,West Bengal,Dinajpur Uttar,Rice,Autumn,1997,14091.0,25530,1.81
+WB_R00496,West Bengal,Dinajpur Uttar,Rice,Summer,1997,64451.0,171040,2.65
+WB_R00497,West Bengal,Dinajpur Uttar,Rice,Winter,1997,183150.0,313230,1.71
+WB_R00498,West Bengal,Dinajpur Uttar,Rice,Autumn,1998,8155.0,3750,0.46
+WB_R00499,West Bengal,Dinajpur Uttar,Rice,Summer,1998,86623.0,338462,3.91
+WB_R00500,West Bengal,Dinajpur Uttar,Rice,Winter,1998,174837.0,237580,1.36
+WB_R00501,West Bengal,Dinajpur Uttar,Rice,Autumn,1999,1004.0,910,0.91
+WB_R00502,West Bengal,Dinajpur Uttar,Rice,Summer,1999,93249.0,273480,2.93
+WB_R00503,West Bengal,Dinajpur Uttar,Rice,Winter,1999,190171.0,293100,1.54
+WB_R00504,West Bengal,Dinajpur Uttar,Rice,Autumn,2000,844.0,610,0.72
+WB_R00505,West Bengal,Dinajpur Uttar,Rice,Summer,2000,92386.0,290487,3.14
+WB_R00506,West Bengal,Dinajpur Uttar,Rice,Winter,2000,189979.0,337510,1.78
+WB_R00507,West Bengal,Dinajpur Uttar,Rice,Autumn,2001,257.0,280,1.09
+WB_R00508,West Bengal,Dinajpur Uttar,Rice,Summer,2001,93666.0,266545,2.85
+WB_R00509,West Bengal,Dinajpur Uttar,Rice,Winter,2001,185658.0,287622,1.55
+WB_R00510,West Bengal,Dinajpur Uttar,Rice,Autumn,2002,843.0,1249,1.48
+WB_R00511,West Bengal,Dinajpur Uttar,Rice,Summer,2002,95655.0,265260,2.77
+WB_R00512,West Bengal,Dinajpur Uttar,Rice,Winter,2002,187523.0,320636,1.71
+WB_R00513,West Bengal,Dinajpur Uttar,Rice,Autumn,2003,679.0,1093,1.61
+WB_R00514,West Bengal,Dinajpur Uttar,Rice,Summer,2003,98592.0,274178,2.78
+WB_R00515,West Bengal,Dinajpur Uttar,Rice,Winter,2003,196347.0,424675,2.16
+WB_R00516,West Bengal,Dinajpur Uttar,Rice,Autumn,2004,2343.0,3173,1.35
+WB_R00517,West Bengal,Dinajpur Uttar,Rice,Summer,2004,88494.0,263873,2.98
+WB_R00518,West Bengal,Dinajpur Uttar,Rice,Winter,2004,178332.0,383281,2.15
+WB_R00519,West Bengal,Dinajpur Uttar,Rice,Autumn,2005,1553.0,2472,1.59
+WB_R00520,West Bengal,Dinajpur Uttar,Rice,Summer,2005,89269.0,252123,2.82
+WB_R00521,West Bengal,Dinajpur Uttar,Rice,Winter,2005,189290.0,437762,2.31
+WB_R00522,West Bengal,Dinajpur Uttar,Rice,Autumn,2006,2529.0,3347,1.32
+WB_R00523,West Bengal,Dinajpur Uttar,Rice,Summer,2006,89231.0,263845,2.96
+WB_R00524,West Bengal,Dinajpur Uttar,Rice,Winter,2006,164541.0,322537,1.96
+WB_R00525,West Bengal,Dinajpur Uttar,Rice,Autumn,2007,2059.0,2999,1.46
+WB_R00526,West Bengal,Dinajpur Uttar,Rice,Summer,2007,93716.0,273224,2.92
+WB_R00527,West Bengal,Dinajpur Uttar,Rice,Winter,2007,185328.0,407290,2.2
+WB_R00528,West Bengal,Dinajpur Uttar,Rice,Autumn,2008,2097.0,3259,1.55
+WB_R00529,West Bengal,Dinajpur Uttar,Rice,Summer,2008,94213.0,252671,2.68
+WB_R00530,West Bengal,Dinajpur Uttar,Rice,Winter,2008,188201.0,404069,2.15
+WB_R00531,West Bengal,Dinajpur Uttar,Rice,Autumn,2009,273.0,443,1.62
+WB_R00532,West Bengal,Dinajpur Uttar,Rice,Summer,2009,74396.0,182964,2.46
+WB_R00533,West Bengal,Dinajpur Uttar,Rice,Winter,2009,181770.0,375550,2.07
+WB_R00534,West Bengal,Dinajpur Uttar,Rice,Autumn,2010,328.0,614,1.87
+WB_R00535,West Bengal,Dinajpur Uttar,Rice,Summer,2010,71596.0,187583,2.62
+WB_R00536,West Bengal,Dinajpur Uttar,Rice,Winter,2010,177585.0,467258,2.63
+WB_R00537,West Bengal,Dinajpur Uttar,Rice,Autumn,2011,277.0,516,1.86
+WB_R00538,West Bengal,Dinajpur Uttar,Rice,Summer,2011,62032.0,188790,3.04
+WB_R00539,West Bengal,Dinajpur Uttar,Rice,Winter,2011,173283.0,446570,2.58
+WB_R00540,West Bengal,Dinajpur Uttar,Rice,Autumn,2012,239.0,426,1.78
+WB_R00541,West Bengal,Dinajpur Uttar,Rice,Summer,2012,49554.0,136650,2.76
+WB_R00542,West Bengal,Dinajpur Uttar,Rice,Winter,2012,177035.0,436691,2.47
+WB_R00543,West Bengal,Dinajpur Uttar,Rice,Autumn,2013,658.0,1278,1.94
+WB_R00544,West Bengal,Dinajpur Uttar,Rice,Summer,2013,50081.0,128804,2.57
+WB_R00545,West Bengal,Dinajpur Uttar,Rice,Winter,2013,177121.0,424966,2.4
+WB_R00546,West Bengal,Dinajpur Uttar,Rice,Autumn,2014,954.0,1991,2.09
+WB_R00547,West Bengal,Dinajpur Uttar,Rice,Summer,2014,37599.0,131609,3.5
+WB_R00548,West Bengal,Dinajpur Uttar,Rice,Winter,2014,179862.0,466273,2.59
+WB_R00549,West Bengal,Dinajpur Uttar,Rice,Autumn,2015,1079.0,2532,2.35
+WB_R00550,West Bengal,Dinajpur Uttar,Rice,Summer,2015,42653.0,140718,3.3
+WB_R00551,West Bengal,Dinajpur Uttar,Rice,Winter,2015,183988.0,491800,2.67
+WB_R00552,West Bengal,Dinajpur Uttar,Rice,Autumn,2016,640.0,1608,2.51
+WB_R00553,West Bengal,Dinajpur Uttar,Rice,Summer,2016,40459.0,118870,2.94
+WB_R00554,West Bengal,Dinajpur Uttar,Rice,Winter,2016,180641.0,483624,2.68
+WB_R00555,West Bengal,Dinajpur Uttar,Rice,Autumn,2017,960.0,2443,2.54
+WB_R00556,West Bengal,Dinajpur Uttar,Rice,Summer,2017,46180.0,151659,3.28
+WB_R00557,West Bengal,Dinajpur Uttar,Rice,Winter,2017,181989.0,369906,2.03
+WB_R00558,West Bengal,Dinajpur Uttar,Rice,Autumn,2018,1875.0,5330,2.84
+WB_R00559,West Bengal,Dinajpur Uttar,Rice,Summer,2018,39299.0,129927,3.31
+WB_R00560,West Bengal,Dinajpur Uttar,Rice,Winter,2018,180083.0,510986,2.84
+WB_R00561,West Bengal,Dinajpur Uttar,Rice,Autumn,2019,2251.0,6021,2.67
+WB_R00562,West Bengal,Dinajpur Uttar,Rice,Summer,2019,47166.0,152694,3.24
+WB_R00563,West Bengal,Dinajpur Uttar,Rice,Winter,2019,181689.0,554568,3.05
+WB_R00564,West Bengal,Hooghly,Rice,Autumn,1997,9712.0,21660,2.23
+WB_R00565,West Bengal,Hooghly,Rice,Summer,1997,91805.0,245720,2.68
+WB_R00566,West Bengal,Hooghly,Rice,Winter,1997,190596.0,505730,2.65
+WB_R00567,West Bengal,Hooghly,Rice,Autumn,1998,7456.0,16250,2.18
+WB_R00568,West Bengal,Hooghly,Rice,Summer,1998,94864.0,292383,3.08
+WB_R00569,West Bengal,Hooghly,Rice,Winter,1998,188614.0,436520,2.31
+WB_R00570,West Bengal,Hooghly,Rice,Autumn,1999,8627.0,17830,2.07
+WB_R00571,West Bengal,Hooghly,Rice,Summer,1999,112009.0,296620,2.65
+WB_R00572,West Bengal,Hooghly,Rice,Winter,1999,191201.0,452430,2.37
+WB_R00573,West Bengal,Hooghly,Rice,Autumn,2000,9243.0,18350,1.99
+WB_R00574,West Bengal,Hooghly,Rice,Summer,2000,88894.0,261063,2.94
+WB_R00575,West Bengal,Hooghly,Rice,Winter,2000,101162.0,224290,2.22
+WB_R00576,West Bengal,Hooghly,Rice,Autumn,2001,6524.0,16209,2.48
+WB_R00577,West Bengal,Hooghly,Rice,Summer,2001,108202.0,294571,2.72
+WB_R00578,West Bengal,Hooghly,Rice,Winter,2001,196336.0,536903,2.73
+WB_R00579,West Bengal,Hooghly,Rice,Autumn,2002,7702.0,18608,2.42
+WB_R00580,West Bengal,Hooghly,Rice,Summer,2002,98238.0,246208,2.51
+WB_R00581,West Bengal,Hooghly,Rice,Winter,2002,198791.0,514097,2.59
+WB_R00582,West Bengal,Hooghly,Rice,Autumn,2003,5418.0,13430,2.48
+WB_R00583,West Bengal,Hooghly,Rice,Summer,2003,94846.0,269968,2.85
+WB_R00584,West Bengal,Hooghly,Rice,Winter,2003,197954.0,509809,2.58
+WB_R00585,West Bengal,Hooghly,Rice,Autumn,2004,6041.0,15544,2.57
+WB_R00586,West Bengal,Hooghly,Rice,Summer,2004,103421.0,317238,3.07
+WB_R00587,West Bengal,Hooghly,Rice,Winter,2004,194577.0,524783,2.7
+WB_R00588,West Bengal,Hooghly,Rice,Autumn,2005,9368.0,25275,2.7
+WB_R00589,West Bengal,Hooghly,Rice,Summer,2005,107679.0,289463,2.69
+WB_R00590,West Bengal,Hooghly,Rice,Winter,2005,193277.0,535211,2.77
+WB_R00591,West Bengal,Hooghly,Rice,Autumn,2006,7103.0,18090,2.55
+WB_R00592,West Bengal,Hooghly,Rice,Summer,2006,96257.0,298814,3.1
+WB_R00593,West Bengal,Hooghly,Rice,Winter,2006,195831.0,529916,2.71
+WB_R00594,West Bengal,Hooghly,Rice,Autumn,2007,5856.0,14357,2.45
+WB_R00595,West Bengal,Hooghly,Rice,Summer,2007,106295.0,325885,3.07
+WB_R00596,West Bengal,Hooghly,Rice,Winter,2007,189637.0,504906,2.66
+WB_R00597,West Bengal,Hooghly,Rice,Autumn,2008,6346.0,15523,2.45
+WB_R00598,West Bengal,Hooghly,Rice,Summer,2008,106430.0,304575,2.86
+WB_R00599,West Bengal,Hooghly,Rice,Winter,2008,192915.0,556159,2.88
+WB_R00600,West Bengal,Hooghly,Rice,Autumn,2009,6265.0,19288,3.08
+WB_R00601,West Bengal,Hooghly,Rice,Summer,2009,106439.0,313613,2.95
+WB_R00602,West Bengal,Hooghly,Rice,Winter,2009,187162.0,528433,2.82
+WB_R00603,West Bengal,Hooghly,Rice,Autumn,2010,4474.0,11555,2.58
+WB_R00604,West Bengal,Hooghly,Rice,Summer,2010,93120.0,299884,3.22
+WB_R00605,West Bengal,Hooghly,Rice,Winter,2010,194776.0,592723,3.04
+WB_R00606,West Bengal,Hooghly,Rice,Autumn,2011,7494.0,14387,1.92
+WB_R00607,West Bengal,Hooghly,Rice,Summer,2011,78128.0,248816,3.18
+WB_R00608,West Bengal,Hooghly,Rice,Winter,2011,191578.0,543633,2.84
+WB_R00609,West Bengal,Hooghly,Rice,Autumn,2012,6089.0,15144,2.49
+WB_R00610,West Bengal,Hooghly,Rice,Summer,2012,82707.0,255782,3.09
+WB_R00611,West Bengal,Hooghly,Rice,Winter,2012,184654.0,522117,2.83
+WB_R00612,West Bengal,Hooghly,Rice,Autumn,2013,5816.0,14343,2.47
+WB_R00613,West Bengal,Hooghly,Rice,Summer,2013,84241.0,248238,2.95
+WB_R00614,West Bengal,Hooghly,Rice,Winter,2013,195988.0,545151,2.78
+WB_R00615,West Bengal,Hooghly,Rice,Autumn,2014,6157.0,18096,2.94
+WB_R00616,West Bengal,Hooghly,Rice,Summer,2014,79654.0,261105,3.28
+WB_R00617,West Bengal,Hooghly,Rice,Winter,2014,190221.0,580845,3.05
+WB_R00618,West Bengal,Hooghly,Rice,Autumn,2015,8906.0,22913,2.57
+WB_R00619,West Bengal,Hooghly,Rice,Summer,2015,80551.0,265005,3.29
+WB_R00620,West Bengal,Hooghly,Rice,Winter,2015,188164.0,583359,3.1
+WB_R00621,West Bengal,Hooghly,Rice,Autumn,2016,9714.0,27259,2.81
+WB_R00622,West Bengal,Hooghly,Rice,Summer,2016,70921.0,236645,3.34
+WB_R00623,West Bengal,Hooghly,Rice,Winter,2016,186331.0,573192,3.08
+WB_R00624,West Bengal,Hooghly,Rice,Autumn,2017,8630.0,22978,2.66
+WB_R00625,West Bengal,Hooghly,Rice,Summer,2017,64751.0,230877,3.57
+WB_R00626,West Bengal,Hooghly,Rice,Winter,2017,186990.0,585819,3.13
+WB_R00627,West Bengal,Hooghly,Rice,Autumn,2018,6250.0,20549,3.29
+WB_R00628,West Bengal,Hooghly,Rice,Summer,2018,72734.0,259658,3.57
+WB_R00629,West Bengal,Hooghly,Rice,Winter,2018,191232.0,604887,3.16
+WB_R00630,West Bengal,Hooghly,Rice,Autumn,2019,6931.0,16979,2.45
+WB_R00631,West Bengal,Hooghly,Rice,Summer,2019,69815.0,257202,3.68
+WB_R00632,West Bengal,Hooghly,Rice,Winter,2019,190957.0,617441,3.23
+WB_R00633,West Bengal,Howrah,Rice,Autumn,1997,373.0,950,2.55
+WB_R00634,West Bengal,Howrah,Rice,Summer,1997,49396.0,135110,2.74
+WB_R00635,West Bengal,Howrah,Rice,Winter,1997,75073.0,106560,1.42
+WB_R00636,West Bengal,Howrah,Rice,Autumn,1998,1203.0,2790,2.32
+WB_R00637,West Bengal,Howrah,Rice,Summer,1998,49273.0,134846,2.74
+WB_R00638,West Bengal,Howrah,Rice,Winter,1998,73666.0,97630,1.33
+WB_R00639,West Bengal,Howrah,Rice,Autumn,1999,1394.0,2810,2.02
+WB_R00640,West Bengal,Howrah,Rice,Summer,1999,58326.0,170270,2.92
+WB_R00641,West Bengal,Howrah,Rice,Winter,1999,74379.0,122690,1.65
+WB_R00642,West Bengal,Howrah,Rice,Autumn,2000,804.0,800,1.0
+WB_R00643,West Bengal,Howrah,Rice,Summer,2000,48370.0,132799,2.75
+WB_R00644,West Bengal,Howrah,Rice,Winter,2000,64094.0,90600,1.41
+WB_R00645,West Bengal,Howrah,Rice,Autumn,2001,1255.0,3010,2.4
+WB_R00646,West Bengal,Howrah,Rice,Summer,2001,47393.0,125242,2.64
+WB_R00647,West Bengal,Howrah,Rice,Winter,2001,74006.0,159255,2.15
+WB_R00648,West Bengal,Howrah,Rice,Autumn,2002,2629.0,5868,2.23
+WB_R00649,West Bengal,Howrah,Rice,Summer,2002,53350.0,140654,2.64
+WB_R00650,West Bengal,Howrah,Rice,Winter,2002,75258.0,134623,1.79
+WB_R00651,West Bengal,Howrah,Rice,Autumn,2003,4586.0,11230,2.45
+WB_R00652,West Bengal,Howrah,Rice,Summer,2003,55316.0,151835,2.74
+WB_R00653,West Bengal,Howrah,Rice,Winter,2003,81513.0,169397,2.08
+WB_R00654,West Bengal,Howrah,Rice,Autumn,2004,3652.0,8259,2.26
+WB_R00655,West Bengal,Howrah,Rice,Summer,2004,49058.0,132079,2.69
+WB_R00656,West Bengal,Howrah,Rice,Winter,2004,80267.0,165102,2.06
+WB_R00657,West Bengal,Howrah,Rice,Autumn,2005,1374.0,3612,2.63
+WB_R00658,West Bengal,Howrah,Rice,Summer,2005,50910.0,133577,2.62
+WB_R00659,West Bengal,Howrah,Rice,Winter,2005,73268.0,148820,2.03
+WB_R00660,West Bengal,Howrah,Rice,Autumn,2006,874.0,1316,1.51
+WB_R00661,West Bengal,Howrah,Rice,Summer,2006,39320.0,110708,2.82
+WB_R00662,West Bengal,Howrah,Rice,Winter,2006,76644.0,131524,1.72
+WB_R00663,West Bengal,Howrah,Rice,Autumn,2007,1124.0,1251,1.11
+WB_R00664,West Bengal,Howrah,Rice,Summer,2007,48926.0,166090,3.39
+WB_R00665,West Bengal,Howrah,Rice,Winter,2007,67809.0,91799,1.35
+WB_R00666,West Bengal,Howrah,Rice,Autumn,2008,1349.0,3159,2.34
+WB_R00667,West Bengal,Howrah,Rice,Summer,2008,49793.0,79696,1.6
+WB_R00668,West Bengal,Howrah,Rice,Winter,2008,64173.0,124088,1.93
+WB_R00669,West Bengal,Howrah,Rice,Autumn,2009,944.0,1192,1.26
+WB_R00670,West Bengal,Howrah,Rice,Summer,2009,41343.0,89995,2.18
+WB_R00671,West Bengal,Howrah,Rice,Winter,2009,71693.0,100034,1.4
+WB_R00672,West Bengal,Howrah,Rice,Autumn,2010,753.0,2071,2.75
+WB_R00673,West Bengal,Howrah,Rice,Summer,2010,41318.0,136208,3.3
+WB_R00674,West Bengal,Howrah,Rice,Winter,2010,73401.0,166483,2.27
+WB_R00675,West Bengal,Howrah,Rice,Autumn,2011,1083.0,1049,0.97
+WB_R00676,West Bengal,Howrah,Rice,Summer,2011,40966.0,130799,3.19
+WB_R00677,West Bengal,Howrah,Rice,Winter,2011,65000.0,93485,1.44
+WB_R00678,West Bengal,Howrah,Rice,Autumn,2012,1662.0,5378,3.24
+WB_R00679,West Bengal,Howrah,Rice,Summer,2012,42165.0,129584,3.07
+WB_R00680,West Bengal,Howrah,Rice,Winter,2012,67380.0,151869,2.25
+WB_R00681,West Bengal,Howrah,Rice,Autumn,2013,1572.0,4660,2.96
+WB_R00682,West Bengal,Howrah,Rice,Summer,2013,42709.0,128178,3.0
+WB_R00683,West Bengal,Howrah,Rice,Winter,2013,64360.0,142291,2.21
+WB_R00684,West Bengal,Howrah,Rice,Autumn,2014,2836.0,8287,2.92
+WB_R00685,West Bengal,Howrah,Rice,Summer,2014,43456.0,135474,3.12
+WB_R00686,West Bengal,Howrah,Rice,Winter,2014,71064.0,176630,2.49
+WB_R00687,West Bengal,Howrah,Rice,Autumn,2015,1515.0,3641,2.4
+WB_R00688,West Bengal,Howrah,Rice,Summer,2015,41173.0,126436,3.07
+WB_R00689,West Bengal,Howrah,Rice,Winter,2015,70127.0,92141,1.31
+WB_R00690,West Bengal,Howrah,Rice,Autumn,2016,1730.0,1540,0.89
+WB_R00691,West Bengal,Howrah,Rice,Summer,2016,39396.0,127750,3.24
+WB_R00692,West Bengal,Howrah,Rice,Winter,2016,74669.0,170049,2.28
+WB_R00693,West Bengal,Howrah,Rice,Autumn,2017,1321.0,2704,2.05
+WB_R00694,West Bengal,Howrah,Rice,Summer,2017,34480.0,118078,3.42
+WB_R00695,West Bengal,Howrah,Rice,Winter,2017,74574.0,179884,2.41
+WB_R00696,West Bengal,Howrah,Rice,Autumn,2018,1110.0,3045,2.74
+WB_R00697,West Bengal,Howrah,Rice,Summer,2018,38310.0,132273,3.45
+WB_R00698,West Bengal,Howrah,Rice,Winter,2018,72089.0,199898,2.77
+WB_R00699,West Bengal,Howrah,Rice,Autumn,2019,1195.0,3278,2.74
+WB_R00700,West Bengal,Howrah,Rice,Summer,2019,29980.0,112309,3.75
+WB_R00701,West Bengal,Howrah,Rice,Winter,2019,71223.0,158144,2.22
+WB_R00702,West Bengal,Jalpaiguri,Rice,Autumn,1997,61579.0,64020,1.04
+WB_R00703,West Bengal,Jalpaiguri,Rice,Summer,1997,4485.0,12890,2.87
+WB_R00704,West Bengal,Jalpaiguri,Rice,Winter,1997,178783.0,233560,1.31
+WB_R00705,West Bengal,Jalpaiguri,Rice,Autumn,1998,63232.0,75340,1.19
+WB_R00706,West Bengal,Jalpaiguri,Rice,Summer,1998,6565.0,19154,2.92
+WB_R00707,West Bengal,Jalpaiguri,Rice,Winter,1998,176434.0,191660,1.09
+WB_R00708,West Bengal,Jalpaiguri,Rice,Autumn,1999,62635.0,101550,1.62
+WB_R00709,West Bengal,Jalpaiguri,Rice,Summer,1999,6614.0,16000,2.42
+WB_R00710,West Bengal,Jalpaiguri,Rice,Winter,1999,188551.0,261620,1.39
+WB_R00711,West Bengal,Jalpaiguri,Rice,Autumn,2000,63272.0,100740,1.59
+WB_R00712,West Bengal,Jalpaiguri,Rice,Summer,2000,6719.0,14187,2.11
+WB_R00713,West Bengal,Jalpaiguri,Rice,Winter,2000,190854.0,269210,1.41
+WB_R00714,West Bengal,Jalpaiguri,Rice,Autumn,2001,58753.0,87055,1.48
+WB_R00715,West Bengal,Jalpaiguri,Rice,Summer,2001,21231.0,48890,2.3
+WB_R00716,West Bengal,Jalpaiguri,Rice,Winter,2001,176149.0,274047,1.56
+WB_R00717,West Bengal,Jalpaiguri,Rice,Autumn,2002,65853.0,95520,1.45
+WB_R00718,West Bengal,Jalpaiguri,Rice,Summer,2002,20946.0,38388,1.83
+WB_R00719,West Bengal,Jalpaiguri,Rice,Winter,2002,188385.0,298543,1.58
+WB_R00720,West Bengal,Jalpaiguri,Rice,Autumn,2003,44546.0,68414,1.54
+WB_R00721,West Bengal,Jalpaiguri,Rice,Summer,2003,15096.0,28882,1.91
+WB_R00722,West Bengal,Jalpaiguri,Rice,Winter,2003,180586.0,300284,1.66
+WB_R00723,West Bengal,Jalpaiguri,Rice,Autumn,2004,47254.0,56433,1.19
+WB_R00724,West Bengal,Jalpaiguri,Rice,Summer,2004,19828.0,34114,1.72
+WB_R00725,West Bengal,Jalpaiguri,Rice,Winter,2004,182997.0,275572,1.51
+WB_R00726,West Bengal,Jalpaiguri,Rice,Autumn,2005,46121.0,67457,1.46
+WB_R00727,West Bengal,Jalpaiguri,Rice,Summer,2005,19328.0,43279,2.24
+WB_R00728,West Bengal,Jalpaiguri,Rice,Winter,2005,183079.0,283881,1.55
+WB_R00729,West Bengal,Jalpaiguri,Rice,Autumn,2006,41163.0,53973,1.31
+WB_R00730,West Bengal,Jalpaiguri,Rice,Summer,2006,18314.0,42983,2.35
+WB_R00731,West Bengal,Jalpaiguri,Rice,Winter,2006,170203.0,322001,1.89
+WB_R00732,West Bengal,Jalpaiguri,Rice,Autumn,2007,40957.0,56630,1.38
+WB_R00733,West Bengal,Jalpaiguri,Rice,Summer,2007,17969.0,41142,2.29
+WB_R00734,West Bengal,Jalpaiguri,Rice,Winter,2007,177129.0,274661,1.55
+WB_R00735,West Bengal,Jalpaiguri,Rice,Autumn,2008,37341.0,54816,1.47
+WB_R00736,West Bengal,Jalpaiguri,Rice,Summer,2008,18730.0,34746,1.86
+WB_R00737,West Bengal,Jalpaiguri,Rice,Winter,2008,179331.0,301641,1.68
+WB_R00738,West Bengal,Jalpaiguri,Rice,Autumn,2009,34634.0,51289,1.48
+WB_R00739,West Bengal,Jalpaiguri,Rice,Summer,2009,18154.0,44840,2.47
+WB_R00740,West Bengal,Jalpaiguri,Rice,Winter,2009,174718.0,339125,1.94
+WB_R00741,West Bengal,Jalpaiguri,Rice,Autumn,2010,30782.0,57398,1.86
+WB_R00742,West Bengal,Jalpaiguri,Rice,Summer,2010,17314.0,37193,2.15
+WB_R00743,West Bengal,Jalpaiguri,Rice,Winter,2010,176016.0,399148,2.27
+WB_R00744,West Bengal,Jalpaiguri,Rice,Autumn,2011,29852.0,55243,1.85
+WB_R00745,West Bengal,Jalpaiguri,Rice,Summer,2011,16929.0,34497,2.04
+WB_R00746,West Bengal,Jalpaiguri,Rice,Winter,2011,177843.0,379914,2.14
+WB_R00747,West Bengal,Jalpaiguri,Rice,Autumn,2012,29132.0,54999,1.89
+WB_R00748,West Bengal,Jalpaiguri,Rice,Summer,2012,19013.0,54174,2.85
+WB_R00749,West Bengal,Jalpaiguri,Rice,Winter,2012,179979.0,383707,2.13
+WB_R00750,West Bengal,Jalpaiguri,Rice,Autumn,2013,29424.0,57673,1.96
+WB_R00751,West Bengal,Jalpaiguri,Rice,Summer,2013,20126.0,44767,2.22
+WB_R00752,West Bengal,Jalpaiguri,Rice,Winter,2013,180097.0,420708,2.34
+WB_R00753,West Bengal,Jalpaiguri,Rice,Autumn,2014,31345.0,68726,2.19
+WB_R00754,West Bengal,Jalpaiguri,Rice,Summer,2014,22779.0,59187,2.6
+WB_R00755,West Bengal,Jalpaiguri,Rice,Winter,2014,176420.0,433939,2.46
+WB_R00756,West Bengal,Jalpaiguri,Rice,Autumn,2015,29019.0,72278,2.49
+WB_R00757,West Bengal,Jalpaiguri,Rice,Summer,2015,23467.0,58810,2.51
+WB_R00758,West Bengal,Jalpaiguri,Rice,Winter,2015,167777.0,425330,2.54
+WB_R00759,West Bengal,Jalpaiguri,Rice,Autumn,2016,11091.0,27433,2.47
+WB_R00760,West Bengal,Jalpaiguri,Rice,Summer,2016,17112.0,43721,2.55
+WB_R00761,West Bengal,Jalpaiguri,Rice,Winter,2016,103433.0,249326,2.41
+WB_R00762,West Bengal,Jalpaiguri,Rice,Autumn,2017,11515.0,25075,2.18
+WB_R00763,West Bengal,Jalpaiguri,Rice,Summer,2017,17870.0,47408,2.65
+WB_R00764,West Bengal,Jalpaiguri,Rice,Winter,2017,104952.0,263929,2.51
+WB_R00765,West Bengal,Jalpaiguri,Rice,Autumn,2018,8900.0,23961,2.69
+WB_R00766,West Bengal,Jalpaiguri,Rice,Summer,2018,18332.0,51404,2.8
+WB_R00767,West Bengal,Jalpaiguri,Rice,Winter,2018,99738.0,278699,2.79
+WB_R00768,West Bengal,Jalpaiguri,Rice,Autumn,2019,9352.0,22250,2.38
+WB_R00769,West Bengal,Jalpaiguri,Rice,Summer,2019,18155.0,54291,2.99
+WB_R00770,West Bengal,Jalpaiguri,Rice,Winter,2019,104679.0,276895,2.65
+WB_R00771,West Bengal,Jhargram,Rice,Autumn,2016,8974.0,26461,2.95
+WB_R00772,West Bengal,Jhargram,Rice,Summer,2016,6751.0,23906,3.54
+WB_R00773,West Bengal,Jhargram,Rice,Winter,2016,121838.0,334852,2.75
+WB_R00774,West Bengal,Jhargram,Rice,Autumn,2017,44604.0,106877,2.4
+WB_R00775,West Bengal,Jhargram,Rice,Summer,2017,14492.0,48392,3.34
+WB_R00776,West Bengal,Jhargram,Rice,Winter,2017,125185.0,362595,2.9
+WB_R00777,West Bengal,Jhargram,Rice,Autumn,2018,12435.0,35045,2.82
+WB_R00778,West Bengal,Jhargram,Rice,Summer,2018,12990.0,43572,3.35
+WB_R00779,West Bengal,Jhargram,Rice,Winter,2018,135374.0,389010,2.87
+WB_R00780,West Bengal,Jhargram,Rice,Autumn,2019,9475.0,23320,2.46
+WB_R00781,West Bengal,Jhargram,Rice,Summer,2019,13427.0,48755,3.63
+WB_R00782,West Bengal,Jhargram,Rice,Winter,2019,135593.0,419973,3.1
+WB_R00783,West Bengal,Kalimpong,Rice,Winter,2016,4776.0,9090,1.9
+WB_R00784,West Bengal,Kalimpong,Rice,Winter,2017,4824.0,9296,1.93
+WB_R00785,West Bengal,Kalimpong,Rice,Winter,2018,4752.0,8381,1.76
+WB_R00786,West Bengal,Kalimpong,Rice,Winter,2019,4735.0,7630,1.61
+WB_R00787,West Bengal,Maldah,Rice,Autumn,1997,17986.0,22930,1.27
+WB_R00788,West Bengal,Maldah,Rice,Summer,1997,66028.0,207390,3.14
+WB_R00789,West Bengal,Maldah,Rice,Winter,1997,147759.0,329220,2.23
+WB_R00790,West Bengal,Maldah,Rice,Autumn,1998,17619.0,17100,0.97
+WB_R00791,West Bengal,Maldah,Rice,Summer,1998,71455.0,253571,3.55
+WB_R00792,West Bengal,Maldah,Rice,Winter,1998,138394.0,217790,1.57
+WB_R00793,West Bengal,Maldah,Rice,Autumn,1999,12401.0,20920,1.69
+WB_R00794,West Bengal,Maldah,Rice,Summer,1999,71507.0,225130,3.15
+WB_R00795,West Bengal,Maldah,Rice,Winter,1999,146750.0,273290,1.86
+WB_R00796,West Bengal,Maldah,Rice,Autumn,2000,13370.0,21700,1.62
+WB_R00797,West Bengal,Maldah,Rice,Summer,2000,70977.0,235081,3.31
+WB_R00798,West Bengal,Maldah,Rice,Winter,2000,137315.0,266290,1.94
+WB_R00799,West Bengal,Maldah,Rice,Autumn,2001,10684.0,20591,1.93
+WB_R00800,West Bengal,Maldah,Rice,Summer,2001,70625.0,239468,3.39
+WB_R00801,West Bengal,Maldah,Rice,Winter,2001,132039.0,276103,2.09
+WB_R00802,West Bengal,Maldah,Rice,Autumn,2002,9872.0,19358,1.96
+WB_R00803,West Bengal,Maldah,Rice,Summer,2002,65075.0,234019,3.6
+WB_R00804,West Bengal,Maldah,Rice,Winter,2002,139605.0,292599,2.1
+WB_R00805,West Bengal,Maldah,Rice,Autumn,2003,8913.0,20803,2.33
+WB_R00806,West Bengal,Maldah,Rice,Summer,2003,62747.0,222388,3.54
+WB_R00807,West Bengal,Maldah,Rice,Winter,2003,136961.0,329401,2.41
+WB_R00808,West Bengal,Maldah,Rice,Autumn,2004,8097.0,18663,2.3
+WB_R00809,West Bengal,Maldah,Rice,Summer,2004,64655.0,237252,3.67
+WB_R00810,West Bengal,Maldah,Rice,Winter,2004,144538.0,405641,2.81
+WB_R00811,West Bengal,Maldah,Rice,Autumn,2005,6844.0,13277,1.94
+WB_R00812,West Bengal,Maldah,Rice,Summer,2005,67525.0,231154,3.42
+WB_R00813,West Bengal,Maldah,Rice,Winter,2005,144239.0,391687,2.72
+WB_R00814,West Bengal,Maldah,Rice,Autumn,2006,6655.0,9965,1.5
+WB_R00815,West Bengal,Maldah,Rice,Summer,2006,67633.0,258723,3.83
+WB_R00816,West Bengal,Maldah,Rice,Winter,2006,79972.0,201941,2.53
+WB_R00817,West Bengal,Maldah,Rice,Autumn,2007,6181.0,11312,1.83
+WB_R00818,West Bengal,Maldah,Rice,Summer,2007,68050.0,256925,3.78
+WB_R00819,West Bengal,Maldah,Rice,Winter,2007,73094.0,212221,2.9
+WB_R00820,West Bengal,Maldah,Rice,Autumn,2008,5939.0,10269,1.73
+WB_R00821,West Bengal,Maldah,Rice,Summer,2008,72795.0,268251,3.69
+WB_R00822,West Bengal,Maldah,Rice,Winter,2008,143019.0,378249,2.64
+WB_R00823,West Bengal,Maldah,Rice,Autumn,2009,5805.0,11790,2.03
+WB_R00824,West Bengal,Maldah,Rice,Summer,2009,68009.0,224153,3.3
+WB_R00825,West Bengal,Maldah,Rice,Winter,2009,143030.0,378532,2.65
+WB_R00826,West Bengal,Maldah,Rice,Autumn,2010,3440.0,5504,1.6
+WB_R00827,West Bengal,Maldah,Rice,Summer,2010,64581.0,245522,3.8
+WB_R00828,West Bengal,Maldah,Rice,Winter,2010,132742.0,379451,2.86
+WB_R00829,West Bengal,Maldah,Rice,Autumn,2011,3689.0,8547,2.32
+WB_R00830,West Bengal,Maldah,Rice,Summer,2011,56673.0,217358,3.84
+WB_R00831,West Bengal,Maldah,Rice,Winter,2011,144564.0,386068,2.67
+WB_R00832,West Bengal,Maldah,Rice,Autumn,2012,3098.0,5519,1.78
+WB_R00833,West Bengal,Maldah,Rice,Summer,2012,58858.0,226440,3.85
+WB_R00834,West Bengal,Maldah,Rice,Winter,2012,145630.0,412606,2.83
+WB_R00835,West Bengal,Maldah,Rice,Autumn,2013,3116.0,6054,1.94
+WB_R00836,West Bengal,Maldah,Rice,Summer,2013,60025.0,236217,3.94
+WB_R00837,West Bengal,Maldah,Rice,Winter,2013,135629.0,462095,3.41
+WB_R00838,West Bengal,Maldah,Rice,Autumn,2014,2937.0,6854,2.33
+WB_R00839,West Bengal,Maldah,Rice,Summer,2014,59802.0,243374,4.07
+WB_R00840,West Bengal,Maldah,Rice,Winter,2014,141455.0,457341,3.23
+WB_R00841,West Bengal,Maldah,Rice,Autumn,2015,3568.0,8697,2.44
+WB_R00842,West Bengal,Maldah,Rice,Summer,2015,60494.0,238369,3.94
+WB_R00843,West Bengal,Maldah,Rice,Winter,2015,142288.0,458289,3.22
+WB_R00844,West Bengal,Maldah,Rice,Autumn,2016,2116.0,5316,2.51
+WB_R00845,West Bengal,Maldah,Rice,Summer,2016,49952.0,201783,4.04
+WB_R00846,West Bengal,Maldah,Rice,Winter,2016,145106.0,463549,3.19
+WB_R00847,West Bengal,Maldah,Rice,Autumn,2017,2956.0,7522,2.54
+WB_R00848,West Bengal,Maldah,Rice,Summer,2017,63185.0,252020,3.99
+WB_R00849,West Bengal,Maldah,Rice,Winter,2017,147792.0,370405,2.51
+WB_R00850,West Bengal,Maldah,Rice,Autumn,2018,6680.0,21318,3.19
+WB_R00851,West Bengal,Maldah,Rice,Summer,2018,61089.0,273642,4.48
+WB_R00852,West Bengal,Maldah,Rice,Winter,2018,137605.0,371891,2.7
+WB_R00853,West Bengal,Maldah,Rice,Autumn,2019,3258.0,8715,2.67
+WB_R00854,West Bengal,Maldah,Rice,Summer,2019,62788.0,217491,3.46
+WB_R00855,West Bengal,Maldah,Rice,Winter,2019,138904.0,439140,3.16
+WB_R00856,West Bengal,Medinipur East,Rice,Autumn,1997,15791.0,39560,2.51
+WB_R00857,West Bengal,Medinipur East,Rice,Summer,1997,129878.0,364720,2.81
+WB_R00858,West Bengal,Medinipur East,Rice,Winter,1997,323282.0,561140,1.74
+WB_R00859,West Bengal,Medinipur East,Rice,Autumn,1998,16119.0,35770,2.22
+WB_R00860,West Bengal,Medinipur East,Rice,Summer,1998,160444.0,472836,2.95
+WB_R00861,West Bengal,Medinipur East,Rice,Winter,1998,318910.0,429520,1.35
+WB_R00862,West Bengal,Medinipur East,Rice,Autumn,1999,16784.0,34160,2.04
+WB_R00863,West Bengal,Medinipur East,Rice,Summer,1999,161568.0,440340,2.73
+WB_R00864,West Bengal,Medinipur East,Rice,Winter,1999,318662.0,581650,1.83
+WB_R00865,West Bengal,Medinipur East,Rice,Autumn,2000,16275.0,35290,2.17
+WB_R00866,West Bengal,Medinipur East,Rice,Summer,2000,168746.0,510818,3.03
+WB_R00867,West Bengal,Medinipur East,Rice,Winter,2000,343278.0,694090,2.02
+WB_R00868,West Bengal,Medinipur East,Rice,Autumn,2002,13185.0,29045,2.2
+WB_R00869,West Bengal,Medinipur East,Rice,Summer,2002,123498.0,399511,3.23
+WB_R00870,West Bengal,Medinipur East,Rice,Winter,2002,266030.0,544623,2.05
+WB_R00871,West Bengal,Medinipur East,Rice,Autumn,2003,13214.0,34427,2.61
+WB_R00872,West Bengal,Medinipur East,Rice,Summer,2003,137557.0,460243,3.35
+WB_R00873,West Bengal,Medinipur East,Rice,Winter,2003,271489.0,513725,1.89
+WB_R00874,West Bengal,Medinipur East,Rice,Autumn,2004,13519.0,29153,2.16
+WB_R00875,West Bengal,Medinipur East,Rice,Summer,2004,138201.0,417098,3.02
+WB_R00876,West Bengal,Medinipur East,Rice,Winter,2004,264521.0,619127,2.34
+WB_R00877,West Bengal,Medinipur East,Rice,Autumn,2005,14873.0,31118,2.09
+WB_R00878,West Bengal,Medinipur East,Rice,Summer,2005,140491.0,433223,3.08
+WB_R00879,West Bengal,Medinipur East,Rice,Winter,2005,259507.0,322353,1.24
+WB_R00880,West Bengal,Medinipur East,Rice,Autumn,2006,15277.0,33560,2.2
+WB_R00881,West Bengal,Medinipur East,Rice,Summer,2006,147552.0,471355,3.19
+WB_R00882,West Bengal,Medinipur East,Rice,Winter,2006,267420.0,540362,2.02
+WB_R00883,West Bengal,Medinipur East,Rice,Autumn,2007,15473.0,20190,1.3
+WB_R00884,West Bengal,Medinipur East,Rice,Summer,2007,157072.0,525727,3.35
+WB_R00885,West Bengal,Medinipur East,Rice,Winter,2007,223794.0,275910,1.23
+WB_R00886,West Bengal,Medinipur East,Rice,Autumn,2008,14820.0,4224,0.29
+WB_R00887,West Bengal,Medinipur East,Rice,Summer,2008,160437.0,395631,2.47
+WB_R00888,West Bengal,Medinipur East,Rice,Winter,2008,231482.0,480112,2.07
+WB_R00889,West Bengal,Medinipur East,Rice,Autumn,2009,13882.0,24797,1.79
+WB_R00890,West Bengal,Medinipur East,Rice,Summer,2009,162366.0,476437,2.93
+WB_R00891,West Bengal,Medinipur East,Rice,Winter,2009,264134.0,536888,2.03
+WB_R00892,West Bengal,Medinipur East,Rice,Autumn,2010,14685.0,30107,2.05
+WB_R00893,West Bengal,Medinipur East,Rice,Summer,2010,168447.0,590050,3.5
+WB_R00894,West Bengal,Medinipur East,Rice,Winter,2010,266350.0,608689,2.29
+WB_R00895,West Bengal,Medinipur East,Rice,Autumn,2011,13038.0,24244,1.86
+WB_R00896,West Bengal,Medinipur East,Rice,Summer,2011,126808.0,438394,3.46
+WB_R00897,West Bengal,Medinipur East,Rice,Winter,2011,259876.0,547586,2.11
+WB_R00898,West Bengal,Medinipur East,Rice,Autumn,2012,11357.0,22540,1.98
+WB_R00899,West Bengal,Medinipur East,Rice,Summer,2012,135070.0,447040,3.31
+WB_R00900,West Bengal,Medinipur East,Rice,Winter,2012,256014.0,590720,2.31
+WB_R00901,West Bengal,Medinipur East,Rice,Autumn,2013,11455.0,23297,2.03
+WB_R00902,West Bengal,Medinipur East,Rice,Summer,2013,139959.0,476928,3.41
+WB_R00903,West Bengal,Medinipur East,Rice,Winter,2013,237323.0,376132,1.58
+WB_R00904,West Bengal,Medinipur East,Rice,Autumn,2014,15111.0,34064,2.25
+WB_R00905,West Bengal,Medinipur East,Rice,Summer,2014,159819.0,563332,3.52
+WB_R00906,West Bengal,Medinipur East,Rice,Winter,2014,254064.0,546260,2.15
+WB_R00907,West Bengal,Medinipur East,Rice,Autumn,2015,11946.0,24465,2.05
+WB_R00908,West Bengal,Medinipur East,Rice,Summer,2015,155209.0,508888,3.28
+WB_R00909,West Bengal,Medinipur East,Rice,Winter,2015,249177.0,571489,2.29
+WB_R00910,West Bengal,Medinipur East,Rice,Autumn,2016,13823.0,31148,2.25
+WB_R00911,West Bengal,Medinipur East,Rice,Summer,2016,144786.0,504945,3.49
+WB_R00912,West Bengal,Medinipur East,Rice,Winter,2016,249259.0,566377,2.27
+WB_R00913,West Bengal,Medinipur East,Rice,Autumn,2017,12365.0,18561,1.5
+WB_R00914,West Bengal,Medinipur East,Rice,Summer,2017,137845.0,503348,3.65
+WB_R00915,West Bengal,Medinipur East,Rice,Winter,2017,250823.0,608540,2.43
+WB_R00916,West Bengal,Medinipur East,Rice,Autumn,2018,11604.0,16916,1.46
+WB_R00917,West Bengal,Medinipur East,Rice,Summer,2018,149470.0,567807,3.8
+WB_R00918,West Bengal,Medinipur East,Rice,Winter,2018,249141.0,712281,2.86
+WB_R00919,West Bengal,Medinipur East,Rice,Autumn,2019,11969.0,20632,1.72
+WB_R00920,West Bengal,Medinipur East,Rice,Summer,2019,143111.0,578604,4.04
+WB_R00921,West Bengal,Medinipur East,Rice,Winter,2019,247502.0,492813,1.99
+WB_R00922,West Bengal,Medinipur West,Rice,Autumn,1997,55288.0,105780,1.91
+WB_R00923,West Bengal,Medinipur West,Rice,Summer,1997,112016.0,278590,2.49
+WB_R00924,West Bengal,Medinipur West,Rice,Winter,1997,434653.0,952270,2.19
+WB_R00925,West Bengal,Medinipur West,Rice,Autumn,1998,48017.0,64848,1.35
+WB_R00926,West Bengal,Medinipur West,Rice,Summer,1998,118934.0,337304,2.84
+WB_R00927,West Bengal,Medinipur West,Rice,Winter,1998,383438.0,715610,1.87
+WB_R00928,West Bengal,Medinipur West,Rice,Autumn,1999,53589.0,107930,2.01
+WB_R00929,West Bengal,Medinipur West,Rice,Summer,1999,125011.0,364010,2.91
+WB_R00930,West Bengal,Medinipur West,Rice,Winter,1999,431040.0,890840,2.07
+WB_R00931,West Bengal,Medinipur West,Rice,Autumn,2000,60201.0,121010,2.01
+WB_R00932,West Bengal,Medinipur West,Rice,Summer,2000,99230.0,299473,3.02
+WB_R00933,West Bengal,Medinipur West,Rice,Winter,2000,420822.0,923770,2.2
+WB_R00934,West Bengal,Medinipur West,Rice,Autumn,2001,25855.0,58679,2.27
+WB_R00935,West Bengal,Medinipur West,Rice,Summer,2001,150870.0,456735,3.03
+WB_R00936,West Bengal,Medinipur West,Rice,Winter,2001,333854.0,754219,2.26
+WB_R00937,West Bengal,Medinipur West,Rice,Autumn,2002,51449.0,118717,2.31
+WB_R00938,West Bengal,Medinipur West,Rice,Summer,2002,109989.0,316139,2.87
+WB_R00939,West Bengal,Medinipur West,Rice,Winter,2002,480710.0,1116911,2.32
+WB_R00940,West Bengal,Medinipur West,Rice,Autumn,2003,52853.0,104593,1.98
+WB_R00941,West Bengal,Medinipur West,Rice,Summer,2003,117115.0,335752,2.87
+WB_R00942,West Bengal,Medinipur West,Rice,Winter,2003,481448.0,1067856,2.22
+WB_R00943,West Bengal,Medinipur West,Rice,Autumn,2004,52839.0,106414,2.01
+WB_R00944,West Bengal,Medinipur West,Rice,Summer,2004,121743.0,370448,3.04
+WB_R00945,West Bengal,Medinipur West,Rice,Winter,2004,480679.0,1259961,2.62
+WB_R00946,West Bengal,Medinipur West,Rice,Autumn,2005,40622.0,89173,2.2
+WB_R00947,West Bengal,Medinipur West,Rice,Summer,2005,121906.0,361879,2.97
+WB_R00948,West Bengal,Medinipur West,Rice,Winter,2005,491499.0,1178578,2.4
+WB_R00949,West Bengal,Medinipur West,Rice,Autumn,2006,41452.0,81267,1.96
+WB_R00950,West Bengal,Medinipur West,Rice,Summer,2006,137915.0,436435,3.16
+WB_R00951,West Bengal,Medinipur West,Rice,Winter,2006,513019.0,1281080,2.5
+WB_R00952,West Bengal,Medinipur West,Rice,Autumn,2007,41368.0,84059,2.03
+WB_R00953,West Bengal,Medinipur West,Rice,Summer,2007,167509.0,558553,3.33
+WB_R00954,West Bengal,Medinipur West,Rice,Winter,2007,441316.0,1156246,2.62
+WB_R00955,West Bengal,Medinipur West,Rice,Autumn,2008,42118.0,79878,1.9
+WB_R00956,West Bengal,Medinipur West,Rice,Summer,2008,173516.0,463393,2.67
+WB_R00957,West Bengal,Medinipur West,Rice,Winter,2008,503293.0,1313474,2.61
+WB_R00958,West Bengal,Medinipur West,Rice,Autumn,2009,29271.0,61570,2.1
+WB_R00959,West Bengal,Medinipur West,Rice,Summer,2009,156372.0,499925,3.2
+WB_R00960,West Bengal,Medinipur West,Rice,Winter,2009,488628.0,1195017,2.45
+WB_R00961,West Bengal,Medinipur West,Rice,Autumn,2010,39370.0,86742,2.2
+WB_R00962,West Bengal,Medinipur West,Rice,Summer,2010,173888.0,629634,3.62
+WB_R00963,West Bengal,Medinipur West,Rice,Winter,2010,403460.0,1002184,2.48
+WB_R00964,West Bengal,Medinipur West,Rice,Autumn,2011,35781.0,75673,2.11
+WB_R00965,West Bengal,Medinipur West,Rice,Summer,2011,137185.0,452691,3.3
+WB_R00966,West Bengal,Medinipur West,Rice,Winter,2011,482718.0,1245624,2.58
+WB_R00967,West Bengal,Medinipur West,Rice,Autumn,2012,37034.0,85775,2.32
+WB_R00968,West Bengal,Medinipur West,Rice,Summer,2012,167853.0,478464,2.85
+WB_R00969,West Bengal,Medinipur West,Rice,Winter,2012,486172.0,1315911,2.71
+WB_R00970,West Bengal,Medinipur West,Rice,Autumn,2013,37862.0,87307,2.31
+WB_R00971,West Bengal,Medinipur West,Rice,Summer,2013,176270.0,601882,3.41
+WB_R00972,West Bengal,Medinipur West,Rice,Winter,2013,502667.0,1053375,2.1
+WB_R00973,West Bengal,Medinipur West,Rice,Autumn,2014,33141.0,80300,2.42
+WB_R00974,West Bengal,Medinipur West,Rice,Summer,2014,195960.0,580442,2.96
+WB_R00975,West Bengal,Medinipur West,Rice,Winter,2014,496134.0,1348329,2.72
+WB_R00976,West Bengal,Medinipur West,Rice,Autumn,2015,48850.0,131436,2.69
+WB_R00977,West Bengal,Medinipur West,Rice,Summer,2015,197171.0,653639,3.32
+WB_R00978,West Bengal,Medinipur West,Rice,Winter,2015,473763.0,1325097,2.8
+WB_R00979,West Bengal,Medinipur West,Rice,Autumn,2016,40832.0,103695,2.54
+WB_R00980,West Bengal,Medinipur West,Rice,Summer,2016,171267.0,618738,3.61
+WB_R00981,West Bengal,Medinipur West,Rice,Winter,2016,368368.0,1027814,2.79
+WB_R00982,West Bengal,Medinipur West,Rice,Autumn,2017,10427.0,25262,2.42
+WB_R00983,West Bengal,Medinipur West,Rice,Summer,2017,190540.0,719225,3.77
+WB_R00984,West Bengal,Medinipur West,Rice,Winter,2017,368953.0,1126841,3.05
+WB_R00985,West Bengal,Medinipur West,Rice,Autumn,2018,32286.0,84535,2.62
+WB_R00986,West Bengal,Medinipur West,Rice,Summer,2018,187778.0,711177,3.79
+WB_R00987,West Bengal,Medinipur West,Rice,Winter,2018,360690.0,1125539,3.12
+WB_R00988,West Bengal,Medinipur West,Rice,Autumn,2019,31725.0,75914,2.39
+WB_R00989,West Bengal,Medinipur West,Rice,Summer,2019,198012.0,665593,3.36
+WB_R00990,West Bengal,Medinipur West,Rice,Winter,2019,369926.0,998032,2.7
+WB_R00991,West Bengal,Murshidabad,Rice,Autumn,1997,43480.0,65000,1.49
+WB_R00992,West Bengal,Murshidabad,Rice,Summer,1997,81817.0,291510,3.56
+WB_R00993,West Bengal,Murshidabad,Rice,Winter,1997,219994.0,540270,2.46
+WB_R00994,West Bengal,Murshidabad,Rice,Autumn,1998,53196.0,91810,1.73
+WB_R00995,West Bengal,Murshidabad,Rice,Summer,1998,91131.0,367926,4.04
+WB_R00996,West Bengal,Murshidabad,Rice,Winter,1998,218651.0,534310,2.44
+WB_R00997,West Bengal,Murshidabad,Rice,Autumn,1999,51465.0,83430,1.62
+WB_R00998,West Bengal,Murshidabad,Rice,Summer,1999,100155.0,337320,3.37
+WB_R00999,West Bengal,Murshidabad,Rice,Winter,1999,236455.0,450580,1.91
+WB_R01000,West Bengal,Murshidabad,Rice,Autumn,2000,48681.0,58760,1.21
+WB_R01001,West Bengal,Murshidabad,Rice,Summer,2000,108478.0,382487,3.53
+WB_R01002,West Bengal,Murshidabad,Rice,Winter,2000,66958.0,106930,1.6
+WB_R01003,West Bengal,Murshidabad,Rice,Autumn,2001,48521.0,97682,2.01
+WB_R01004,West Bengal,Murshidabad,Rice,Summer,2001,112413.0,383715,3.41
+WB_R01005,West Bengal,Murshidabad,Rice,Winter,2001,234126.0,603952,2.58
+WB_R01006,West Bengal,Murshidabad,Rice,Autumn,2002,53336.0,104418,1.96
+WB_R01007,West Bengal,Murshidabad,Rice,Summer,2002,115142.0,360521,3.13
+WB_R01008,West Bengal,Murshidabad,Rice,Winter,2002,238246.0,607864,2.55
+WB_R01009,West Bengal,Murshidabad,Rice,Autumn,2003,40170.0,84157,2.1
+WB_R01010,West Bengal,Murshidabad,Rice,Summer,2003,130991.0,431128,3.29
+WB_R01011,West Bengal,Murshidabad,Rice,Winter,2003,232299.0,598306,2.58
+WB_R01012,West Bengal,Murshidabad,Rice,Autumn,2004,38130.0,85853,2.25
+WB_R01013,West Bengal,Murshidabad,Rice,Summer,2004,140359.0,513370,3.66
+WB_R01014,West Bengal,Murshidabad,Rice,Winter,2004,232211.0,595193,2.56
+WB_R01015,West Bengal,Murshidabad,Rice,Autumn,2005,36281.0,78733,2.17
+WB_R01016,West Bengal,Murshidabad,Rice,Summer,2005,137686.0,473728,3.44
+WB_R01017,West Bengal,Murshidabad,Rice,Winter,2005,230296.0,637078,2.77
+WB_R01018,West Bengal,Murshidabad,Rice,Autumn,2006,32583.0,62180,1.91
+WB_R01019,West Bengal,Murshidabad,Rice,Summer,2006,137322.0,475669,3.46
+WB_R01020,West Bengal,Murshidabad,Rice,Winter,2006,225168.0,492849,2.19
+WB_R01021,West Bengal,Murshidabad,Rice,Autumn,2007,32662.0,65084,1.99
+WB_R01022,West Bengal,Murshidabad,Rice,Summer,2007,141921.0,500939,3.53
+WB_R01023,West Bengal,Murshidabad,Rice,Winter,2007,223835.0,576385,2.58
+WB_R01024,West Bengal,Murshidabad,Rice,Autumn,2008,32285.0,73651,2.28
+WB_R01025,West Bengal,Murshidabad,Rice,Summer,2008,135706.0,417019,3.07
+WB_R01026,West Bengal,Murshidabad,Rice,Winter,2008,231525.0,633077,2.73
+WB_R01027,West Bengal,Murshidabad,Rice,Autumn,2009,16629.0,35194,2.12
+WB_R01028,West Bengal,Murshidabad,Rice,Summer,2009,131338.0,411311,3.13
+WB_R01029,West Bengal,Murshidabad,Rice,Winter,2009,225164.0,593905,2.64
+WB_R01030,West Bengal,Murshidabad,Rice,Autumn,2010,11867.0,23358,1.97
+WB_R01031,West Bengal,Murshidabad,Rice,Summer,2010,121612.0,399084,3.28
+WB_R01032,West Bengal,Murshidabad,Rice,Winter,2010,170696.0,439287,2.57
+WB_R01033,West Bengal,Murshidabad,Rice,Autumn,2011,11849.0,26456,2.23
+WB_R01034,West Bengal,Murshidabad,Rice,Summer,2011,113523.0,374864,3.3
+WB_R01035,West Bengal,Murshidabad,Rice,Winter,2011,225648.0,555990,2.46
+WB_R01036,West Bengal,Murshidabad,Rice,Autumn,2012,11682.0,26953,2.31
+WB_R01037,West Bengal,Murshidabad,Rice,Summer,2012,114063.0,392066,3.44
+WB_R01038,West Bengal,Murshidabad,Rice,Winter,2012,226641.0,554681,2.45
+WB_R01039,West Bengal,Murshidabad,Rice,Autumn,2013,11617.0,30039,2.59
+WB_R01040,West Bengal,Murshidabad,Rice,Summer,2013,119769.0,411888,3.44
+WB_R01041,West Bengal,Murshidabad,Rice,Winter,2013,219346.0,674772,3.08
+WB_R01042,West Bengal,Murshidabad,Rice,Autumn,2014,18234.0,46997,2.58
+WB_R01043,West Bengal,Murshidabad,Rice,Summer,2014,126504.0,457147,3.61
+WB_R01044,West Bengal,Murshidabad,Rice,Winter,2014,222718.0,686341,3.08
+WB_R01045,West Bengal,Murshidabad,Rice,Autumn,2015,16144.0,43645,2.7
+WB_R01046,West Bengal,Murshidabad,Rice,Summer,2015,140077.0,511559,3.65
+WB_R01047,West Bengal,Murshidabad,Rice,Winter,2015,226774.0,702050,3.1
+WB_R01048,West Bengal,Murshidabad,Rice,Autumn,2016,17465.0,44276,2.54
+WB_R01049,West Bengal,Murshidabad,Rice,Summer,2016,126680.0,468565,3.7
+WB_R01050,West Bengal,Murshidabad,Rice,Winter,2016,231140.0,722816,3.13
+WB_R01051,West Bengal,Murshidabad,Rice,Autumn,2017,17831.0,45374,2.54
+WB_R01052,West Bengal,Murshidabad,Rice,Summer,2017,116315.0,447936,3.85
+WB_R01053,West Bengal,Murshidabad,Rice,Winter,2017,233396.0,684876,2.93
+WB_R01054,West Bengal,Murshidabad,Rice,Autumn,2018,16841.0,45415,2.7
+WB_R01055,West Bengal,Murshidabad,Rice,Summer,2018,121132.0,391117,3.23
+WB_R01056,West Bengal,Murshidabad,Rice,Winter,2018,216294.0,631973,2.92
+WB_R01057,West Bengal,Murshidabad,Rice,Autumn,2019,12860.0,35110,2.73
+WB_R01058,West Bengal,Murshidabad,Rice,Summer,2019,99863.0,330734,3.31
+WB_R01059,West Bengal,Murshidabad,Rice,Winter,2019,214643.0,636081,2.96
+WB_R01060,West Bengal,Nadia,Rice,Autumn,1997,55567.0,98910,1.78
+WB_R01061,West Bengal,Nadia,Rice,Summer,1997,121367.0,376870,3.11
+WB_R01062,West Bengal,Nadia,Rice,Winter,1997,127051.0,271480,2.14
+WB_R01063,West Bengal,Nadia,Rice,Autumn,1998,60217.0,106400,1.77
+WB_R01064,West Bengal,Nadia,Rice,Summer,1998,125158.0,516429,4.13
+WB_R01065,West Bengal,Nadia,Rice,Winter,1998,119747.0,220890,1.84
+WB_R01066,West Bengal,Nadia,Rice,Autumn,1999,59940.0,124450,2.08
+WB_R01067,West Bengal,Nadia,Rice,Summer,1999,133652.0,454510,3.4
+WB_R01068,West Bengal,Nadia,Rice,Winter,1999,126188.0,237850,1.88
+WB_R01069,West Bengal,Nadia,Rice,Autumn,2000,53425.0,98840,1.85
+WB_R01070,West Bengal,Nadia,Rice,Summer,2000,147670.0,506357,3.43
+WB_R01071,West Bengal,Nadia,Rice,Winter,2000,28092.0,44800,1.59
+WB_R01072,West Bengal,Nadia,Rice,Autumn,2001,55580.0,124264,2.24
+WB_R01073,West Bengal,Nadia,Rice,Summer,2001,156157.0,534539,3.42
+WB_R01074,West Bengal,Nadia,Rice,Winter,2001,129902.0,299924,2.31
+WB_R01075,West Bengal,Nadia,Rice,Autumn,2002,55185.0,118693,2.15
+WB_R01076,West Bengal,Nadia,Rice,Summer,2002,158907.0,552776,3.48
+WB_R01077,West Bengal,Nadia,Rice,Winter,2002,127639.0,327586,2.57
+WB_R01078,West Bengal,Nadia,Rice,Autumn,2003,61458.0,135358,2.2
+WB_R01079,West Bengal,Nadia,Rice,Summer,2003,118822.0,397368,3.34
+WB_R01080,West Bengal,Nadia,Rice,Winter,2003,129396.0,307364,2.38
+WB_R01081,West Bengal,Nadia,Rice,Autumn,2004,56617.0,123805,2.19
+WB_R01082,West Bengal,Nadia,Rice,Summer,2004,109866.0,366510,3.34
+WB_R01083,West Bengal,Nadia,Rice,Winter,2004,119648.0,273359,2.28
+WB_R01084,West Bengal,Nadia,Rice,Autumn,2005,46201.0,101837,2.2
+WB_R01085,West Bengal,Nadia,Rice,Summer,2005,107541.0,349808,3.25
+WB_R01086,West Bengal,Nadia,Rice,Winter,2005,111671.0,280791,2.51
+WB_R01087,West Bengal,Nadia,Rice,Autumn,2006,41389.0,93352,2.26
+WB_R01088,West Bengal,Nadia,Rice,Summer,2006,101085.0,352101,3.48
+WB_R01089,West Bengal,Nadia,Rice,Winter,2006,107837.0,232244,2.15
+WB_R01090,West Bengal,Nadia,Rice,Autumn,2007,45870.0,102345,2.23
+WB_R01091,West Bengal,Nadia,Rice,Summer,2007,104250.0,357209,3.43
+WB_R01092,West Bengal,Nadia,Rice,Winter,2007,90625.0,223469,2.47
+WB_R01093,West Bengal,Nadia,Rice,Autumn,2008,56861.0,132676,2.33
+WB_R01094,West Bengal,Nadia,Rice,Summer,2008,104873.0,365878,3.49
+WB_R01095,West Bengal,Nadia,Rice,Winter,2008,115484.0,300969,2.61
+WB_R01096,West Bengal,Nadia,Rice,Autumn,2009,43801.0,99443,2.27
+WB_R01097,West Bengal,Nadia,Rice,Summer,2009,96531.0,322925,3.35
+WB_R01098,West Bengal,Nadia,Rice,Winter,2009,98490.0,242497,2.46
+WB_R01099,West Bengal,Nadia,Rice,Autumn,2010,48392.0,100640,2.08
+WB_R01100,West Bengal,Nadia,Rice,Summer,2010,98567.0,348095,3.53
+WB_R01101,West Bengal,Nadia,Rice,Winter,2010,88778.0,201733,2.27
+WB_R01102,West Bengal,Nadia,Rice,Autumn,2011,47487.0,104923,2.21
+WB_R01103,West Bengal,Nadia,Rice,Summer,2011,97703.0,350155,3.58
+WB_R01104,West Bengal,Nadia,Rice,Winter,2011,106951.0,289408,2.71
+WB_R01105,West Bengal,Nadia,Rice,Autumn,2012,47478.0,105131,2.21
+WB_R01106,West Bengal,Nadia,Rice,Summer,2012,95233.0,357653,3.76
+WB_R01107,West Bengal,Nadia,Rice,Winter,2012,90144.0,205511,2.28
+WB_R01108,West Bengal,Nadia,Rice,Autumn,2013,47696.0,114531,2.4
+WB_R01109,West Bengal,Nadia,Rice,Summer,2013,94331.0,351024,3.72
+WB_R01110,West Bengal,Nadia,Rice,Winter,2013,97006.0,268862,2.77
+WB_R01111,West Bengal,Nadia,Rice,Autumn,2014,49599.0,132900,2.68
+WB_R01112,West Bengal,Nadia,Rice,Summer,2014,98286.0,374824,3.81
+WB_R01113,West Bengal,Nadia,Rice,Winter,2014,94963.0,273137,2.88
+WB_R01114,West Bengal,Nadia,Rice,Autumn,2015,49081.0,121145,2.47
+WB_R01115,West Bengal,Nadia,Rice,Summer,2015,91857.0,332600,3.62
+WB_R01116,West Bengal,Nadia,Rice,Winter,2015,96189.0,289324,3.01
+WB_R01117,West Bengal,Nadia,Rice,Autumn,2016,51842.0,138021,2.66
+WB_R01118,West Bengal,Nadia,Rice,Summer,2016,82179.0,311661,3.79
+WB_R01119,West Bengal,Nadia,Rice,Winter,2016,92143.0,284271,3.09
+WB_R01120,West Bengal,Nadia,Rice,Autumn,2017,51976.0,147671,2.84
+WB_R01121,West Bengal,Nadia,Rice,Summer,2017,94808.0,343314,3.62
+WB_R01122,West Bengal,Nadia,Rice,Winter,2017,95876.0,313318,3.27
+WB_R01123,West Bengal,Nadia,Rice,Autumn,2018,41868.0,110241,2.63
+WB_R01124,West Bengal,Nadia,Rice,Summer,2018,93154.0,347424,3.73
+WB_R01125,West Bengal,Nadia,Rice,Winter,2018,94639.0,302231,3.19
+WB_R01126,West Bengal,Nadia,Rice,Autumn,2019,41858.0,106617,2.55
+WB_R01127,West Bengal,Nadia,Rice,Summer,2019,81198.0,310047,3.82
+WB_R01128,West Bengal,Nadia,Rice,Winter,2019,93424.0,306368,3.28
+WB_R01129,West Bengal,Paschim Bardhaman,Rice,Autumn,2016,1615.0,4724,2.93
+WB_R01130,West Bengal,Paschim Bardhaman,Rice,Summer,2016,364.0,1200,3.3
+WB_R01131,West Bengal,Paschim Bardhaman,Rice,Winter,2016,40518.0,138044,3.41
+WB_R01132,West Bengal,Paschim Bardhaman,Rice,Autumn,2017,15.0,43,2.87
+WB_R01133,West Bengal,Paschim Bardhaman,Rice,Summer,2017,383.0,1348,3.52
+WB_R01134,West Bengal,Paschim Bardhaman,Rice,Winter,2017,40219.0,128435,3.19
+WB_R01135,West Bengal,Paschim Bardhaman,Rice,Autumn,2018,100.0,313,3.13
+WB_R01136,West Bengal,Paschim Bardhaman,Rice,Summer,2018,515.0,1845,3.58
+WB_R01137,West Bengal,Paschim Bardhaman,Rice,Winter,2018,42002.0,110668,2.63
+WB_R01138,West Bengal,Paschim Bardhaman,Rice,Autumn,2019,65.0,192,2.95
+WB_R01139,West Bengal,Paschim Bardhaman,Rice,Summer,2019,522.0,1718,3.29
+WB_R01140,West Bengal,Paschim Bardhaman,Rice,Winter,2019,40627.0,125562,3.09
+WB_R01141,West Bengal,Purba Bardhaman,Rice,Autumn,1997,34675.0,91590,2.64
+WB_R01142,West Bengal,Purba Bardhaman,Rice,Summer,1997,201048.0,691690,3.44
+WB_R01143,West Bengal,Purba Bardhaman,Rice,Winter,1997,417834.0,1146060,2.74
+WB_R01144,West Bengal,Purba Bardhaman,Rice,Autumn,1998,34681.0,101480,2.93
+WB_R01145,West Bengal,Purba Bardhaman,Rice,Summer,1998,249525.0,882289,3.54
+WB_R01146,West Bengal,Purba Bardhaman,Rice,Winter,1998,416509.0,1161520,2.79
+WB_R01147,West Bengal,Purba Bardhaman,Rice,Autumn,1999,35163.0,84840,2.41
+WB_R01148,West Bengal,Purba Bardhaman,Rice,Summer,1999,228995.0,773640,3.38
+WB_R01149,West Bengal,Purba Bardhaman,Rice,Winter,1999,414208.0,1000580,2.42
+WB_R01150,West Bengal,Purba Bardhaman,Rice,Autumn,2000,18791.0,34070,1.81
+WB_R01151,West Bengal,Purba Bardhaman,Rice,Summer,2000,219769.0,839305,3.82
+WB_R01152,West Bengal,Purba Bardhaman,Rice,Winter,2000,344094.0,698020,2.03
+WB_R01153,West Bengal,Purba Bardhaman,Rice,Autumn,2001,21097.0,55797,2.64
+WB_R01154,West Bengal,Purba Bardhaman,Rice,Summer,2001,218525.0,719603,3.29
+WB_R01155,West Bengal,Purba Bardhaman,Rice,Winter,2001,420467.0,1155222,2.75
+WB_R01156,West Bengal,Purba Bardhaman,Rice,Autumn,2002,26341.0,76201,2.89
+WB_R01157,West Bengal,Purba Bardhaman,Rice,Summer,2002,216157.0,650283,3.01
+WB_R01158,West Bengal,Purba Bardhaman,Rice,Winter,2002,404986.0,1204889,2.98
+WB_R01159,West Bengal,Purba Bardhaman,Rice,Autumn,2003,18420.0,51773,2.81
+WB_R01160,West Bengal,Purba Bardhaman,Rice,Summer,2003,215469.0,699200,3.25
+WB_R01161,West Bengal,Purba Bardhaman,Rice,Winter,2003,421645.0,1257087,2.98
+WB_R01162,West Bengal,Purba Bardhaman,Rice,Autumn,2004,17119.0,52128,3.05
+WB_R01163,West Bengal,Purba Bardhaman,Rice,Summer,2004,200398.0,609379,3.04
+WB_R01164,West Bengal,Purba Bardhaman,Rice,Winter,2004,416657.0,1231421,2.96
+WB_R01165,West Bengal,Purba Bardhaman,Rice,Autumn,2005,14641.0,44609,3.05
+WB_R01166,West Bengal,Purba Bardhaman,Rice,Summer,2005,207192.0,558393,2.7
+WB_R01167,West Bengal,Purba Bardhaman,Rice,Winter,2005,417180.0,1365492,3.27
+WB_R01168,West Bengal,Purba Bardhaman,Rice,Autumn,2006,13530.0,43731,3.23
+WB_R01169,West Bengal,Purba Bardhaman,Rice,Summer,2006,209769.0,721948,3.44
+WB_R01170,West Bengal,Purba Bardhaman,Rice,Winter,2006,419514.0,1201310,2.86
+WB_R01171,West Bengal,Purba Bardhaman,Rice,Autumn,2007,17567.0,51880,2.95
+WB_R01172,West Bengal,Purba Bardhaman,Rice,Summer,2007,203741.0,679998,3.34
+WB_R01173,West Bengal,Purba Bardhaman,Rice,Winter,2007,414468.0,1126762,2.72
+WB_R01174,West Bengal,Purba Bardhaman,Rice,Autumn,2008,15358.0,44529,2.9
+WB_R01175,West Bengal,Purba Bardhaman,Rice,Summer,2008,233697.0,661427,2.83
+WB_R01176,West Bengal,Purba Bardhaman,Rice,Winter,2008,417486.0,1170211,2.8
+WB_R01177,West Bengal,Purba Bardhaman,Rice,Autumn,2009,12066.0,35141,2.91
+WB_R01178,West Bengal,Purba Bardhaman,Rice,Summer,2009,230750.0,744206,3.23
+WB_R01179,West Bengal,Purba Bardhaman,Rice,Winter,2009,429698.0,1271906,2.96
+WB_R01180,West Bengal,Purba Bardhaman,Rice,Autumn,2010,9285.0,26478,2.85
+WB_R01181,West Bengal,Purba Bardhaman,Rice,Summer,2010,189443.0,585863,3.09
+WB_R01182,West Bengal,Purba Bardhaman,Rice,Winter,2010,364128.0,1053602,2.89
+WB_R01183,West Bengal,Purba Bardhaman,Rice,Autumn,2011,10169.0,30638,3.01
+WB_R01184,West Bengal,Purba Bardhaman,Rice,Summer,2011,169333.0,476332,2.81
+WB_R01185,West Bengal,Purba Bardhaman,Rice,Winter,2011,413299.0,1242347,3.01
+WB_R01186,West Bengal,Purba Bardhaman,Rice,Autumn,2012,9293.0,28765,3.1
+WB_R01187,West Bengal,Purba Bardhaman,Rice,Summer,2012,163328.0,592495,3.63
+WB_R01188,West Bengal,Purba Bardhaman,Rice,Winter,2012,420798.0,1301195,3.09
+WB_R01189,West Bengal,Purba Bardhaman,Rice,Autumn,2013,9356.0,25163,2.69
+WB_R01190,West Bengal,Purba Bardhaman,Rice,Summer,2013,176219.0,668407,3.79
+WB_R01191,West Bengal,Purba Bardhaman,Rice,Winter,2013,418616.0,1323049,3.16
+WB_R01192,West Bengal,Purba Bardhaman,Rice,Autumn,2014,13198.0,44362,3.36
+WB_R01193,West Bengal,Purba Bardhaman,Rice,Summer,2014,150267.0,490532,3.26
+WB_R01194,West Bengal,Purba Bardhaman,Rice,Winter,2014,419814.0,1361138,3.24
+WB_R01195,West Bengal,Purba Bardhaman,Rice,Autumn,2015,13142.0,42481,3.23
+WB_R01196,West Bengal,Purba Bardhaman,Rice,Summer,2015,148014.0,489780,3.31
+WB_R01197,West Bengal,Purba Bardhaman,Rice,Winter,2015,417317.0,1417173,3.4
+WB_R01198,West Bengal,Purba Bardhaman,Rice,Autumn,2016,12388.0,38294,3.09
+WB_R01199,West Bengal,Purba Bardhaman,Rice,Summer,2016,125719.0,292764,2.33
+WB_R01200,West Bengal,Purba Bardhaman,Rice,Winter,2016,355335.0,1183394,3.33
+WB_R01201,West Bengal,Purba Bardhaman,Rice,Autumn,2017,14592.0,44188,3.03
+WB_R01202,West Bengal,Purba Bardhaman,Rice,Summer,2017,149145.0,531835,3.57
+WB_R01203,West Bengal,Purba Bardhaman,Rice,Winter,2017,356876.0,1021406,2.86
+WB_R01204,West Bengal,Purba Bardhaman,Rice,Autumn,2018,14583.0,44532,3.05
+WB_R01205,West Bengal,Purba Bardhaman,Rice,Summer,2018,152224.0,545645,3.58
+WB_R01206,West Bengal,Purba Bardhaman,Rice,Winter,2018,358495.0,1154455,3.22
+WB_R01207,West Bengal,Purba Bardhaman,Rice,Autumn,2019,12710.0,14040,1.1
+WB_R01208,West Bengal,Purba Bardhaman,Rice,Summer,2019,158631.0,614662,3.87
+WB_R01209,West Bengal,Purba Bardhaman,Rice,Winter,2019,366490.0,1301445,3.55
+WB_R01210,West Bengal,Purulia,Rice,Autumn,1997,4327.0,6350,1.47
+WB_R01211,West Bengal,Purulia,Rice,Summer,1997,2995.0,7130,2.38
+WB_R01212,West Bengal,Purulia,Rice,Winter,1997,315095.0,595830,1.89
+WB_R01213,West Bengal,Purulia,Rice,Autumn,1998,1561.0,1250,0.8
+WB_R01214,West Bengal,Purulia,Rice,Summer,1998,3060.0,4048,1.32
+WB_R01215,West Bengal,Purulia,Rice,Winter,1998,227172.0,336300,1.48
+WB_R01216,West Bengal,Purulia,Rice,Autumn,1999,2306.0,3400,1.47
+WB_R01217,West Bengal,Purulia,Rice,Summer,1999,3576.0,8650,2.42
+WB_R01218,West Bengal,Purulia,Rice,Winter,1999,294107.0,535580,1.82
+WB_R01219,West Bengal,Purulia,Rice,Autumn,2000,2632.0,2620,1.0
+WB_R01220,West Bengal,Purulia,Rice,Summer,2000,1023.0,2454,2.4
+WB_R01221,West Bengal,Purulia,Rice,Winter,2000,258531.0,469910,1.82
+WB_R01222,West Bengal,Purulia,Rice,Autumn,2001,3132.0,7255,2.32
+WB_R01223,West Bengal,Purulia,Rice,Summer,2001,1213.0,2184,1.8
+WB_R01224,West Bengal,Purulia,Rice,Winter,2001,290378.0,735730,2.53
+WB_R01225,West Bengal,Purulia,Rice,Autumn,2002,1290.0,2691,2.09
+WB_R01226,West Bengal,Purulia,Rice,Summer,2002,757.0,1583,2.09
+WB_R01227,West Bengal,Purulia,Rice,Winter,2002,228204.0,482579,2.11
+WB_R01228,West Bengal,Purulia,Rice,Autumn,2003,1981.0,2707,1.37
+WB_R01229,West Bengal,Purulia,Rice,Summer,2003,1800.0,4104,2.28
+WB_R01230,West Bengal,Purulia,Rice,Winter,2003,290796.0,632908,2.18
+WB_R01231,West Bengal,Purulia,Rice,Autumn,2004,780.0,1604,2.06
+WB_R01232,West Bengal,Purulia,Rice,Summer,2004,1354.0,2836,2.09
+WB_R01233,West Bengal,Purulia,Rice,Winter,2004,287528.0,669276,2.33
+WB_R01234,West Bengal,Purulia,Rice,Autumn,2005,1606.0,1497,0.93
+WB_R01235,West Bengal,Purulia,Rice,Summer,2005,1221.0,2818,2.31
+WB_R01236,West Bengal,Purulia,Rice,Winter,2005,264150.0,524587,1.99
+WB_R01237,West Bengal,Purulia,Rice,Autumn,2006,1993.0,2992,1.5
+WB_R01238,West Bengal,Purulia,Rice,Summer,2006,1336.0,3319,2.48
+WB_R01239,West Bengal,Purulia,Rice,Winter,2006,277234.0,725085,2.62
+WB_R01240,West Bengal,Purulia,Rice,Autumn,2007,2210.0,3795,1.72
+WB_R01241,West Bengal,Purulia,Rice,Summer,2007,2825.0,4437,1.57
+WB_R01242,West Bengal,Purulia,Rice,Winter,2007,308632.0,759940,2.46
+WB_R01243,West Bengal,Purulia,Rice,Autumn,2008,2119.0,4169,1.97
+WB_R01244,West Bengal,Purulia,Rice,Summer,2008,1014.0,1869,1.84
+WB_R01245,West Bengal,Purulia,Rice,Winter,2008,297872.0,738143,2.48
+WB_R01246,West Bengal,Purulia,Rice,Autumn,2009,162.0,134,0.83
+WB_R01247,West Bengal,Purulia,Rice,Summer,2009,374.0,795,2.13
+WB_R01248,West Bengal,Purulia,Rice,Winter,2009,265107.0,597845,2.26
+WB_R01249,West Bengal,Purulia,Rice,Autumn,2010,122.0,35,0.29
+WB_R01250,West Bengal,Purulia,Rice,Summer,2010,105.0,281,2.68
+WB_R01251,West Bengal,Purulia,Rice,Winter,2010,152676.0,261435,1.71
+WB_R01252,West Bengal,Purulia,Rice,Autumn,2011,200.0,245,1.23
+WB_R01253,West Bengal,Purulia,Rice,Summer,2011,122.0,301,2.47
+WB_R01254,West Bengal,Purulia,Rice,Winter,2011,270270.0,731799,2.71
+WB_R01255,West Bengal,Purulia,Rice,Autumn,2012,123.0,308,2.5
+WB_R01256,West Bengal,Purulia,Rice,Summer,2012,280.0,872,3.11
+WB_R01257,West Bengal,Purulia,Rice,Winter,2012,288735.0,729553,2.53
+WB_R01258,West Bengal,Purulia,Rice,Autumn,2013,92.0,128,1.39
+WB_R01259,West Bengal,Purulia,Rice,Summer,2013,516.0,1274,2.47
+WB_R01260,West Bengal,Purulia,Rice,Winter,2013,302274.0,730136,2.42
+WB_R01261,West Bengal,Purulia,Rice,Autumn,2014,264.0,721,2.73
+WB_R01262,West Bengal,Purulia,Rice,Summer,2014,306.0,801,2.62
+WB_R01263,West Bengal,Purulia,Rice,Winter,2014,279151.0,597899,2.14
+WB_R01264,West Bengal,Purulia,Rice,Autumn,2015,183.0,496,2.71
+WB_R01265,West Bengal,Purulia,Rice,Summer,2015,516.0,629,1.22
+WB_R01266,West Bengal,Purulia,Rice,Winter,2015,271430.0,499314,1.84
+WB_R01267,West Bengal,Purulia,Rice,Autumn,2016,284.0,723,2.55
+WB_R01268,West Bengal,Purulia,Rice,Summer,2016,182.0,466,2.56
+WB_R01269,West Bengal,Purulia,Rice,Winter,2016,276351.0,648626,2.35
+WB_R01270,West Bengal,Purulia,Rice,Autumn,2017,252.0,581,2.31
+WB_R01271,West Bengal,Purulia,Rice,Summer,2017,270.0,617,2.29
+WB_R01272,West Bengal,Purulia,Rice,Winter,2017,272651.0,750270,2.75
+WB_R01273,West Bengal,Purulia,Rice,Autumn,2018,546.0,1376,2.52
+WB_R01274,West Bengal,Purulia,Rice,Summer,2018,378.0,1144,3.03
+WB_R01275,West Bengal,Purulia,Rice,Winter,2018,281236.0,615025,2.19
+WB_R01276,West Bengal,Purulia,Rice,Autumn,2019,346.0,801,2.32
+WB_R01277,West Bengal,Purulia,Rice,Summer,2019,544.0,1644,3.02
+WB_R01278,West Bengal,Purulia,Rice,Winter,2019,285631.0,794280,2.78

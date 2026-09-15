@@ -1,0 +1,8 @@
+{
+  "task": "regression",
+  "data": "data/rice_canonical.csv",
+  "output": "outputs/core",
+  "crop": "Rice",
+  "yield_unit": "t/ha",
+  "advanced": false
+}

@@ -1,0 +1,1 @@
+{"task":"classification","data":"data/crop_labels_canonical.csv","output":"outputs/classification","iid_justified":true}

@@ -1,0 +1,17 @@
+{
+  "model": "forest",
+  "data_sha256": "3de03aeebd2998d862b9e8eb35c87ef5239b8a92128550c0bde583d2aee9d76b",
+  "features": [
+    "N",
+    "P",
+    "K",
+    "temperature",
+    "humidity",
+    "ph",
+    "rainfall"
+  ],
+  "target": "label",
+  "task": "classification",
+  "config_sha256": "c8f7f905573a923b827e71f2c978275c9740c3b75f40d5aa13682f8d30f043fb",
+  "note": "Selected training-only pipeline; no train+validation refit"
+}

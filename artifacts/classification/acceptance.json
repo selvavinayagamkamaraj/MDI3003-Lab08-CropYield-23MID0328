@@ -1,0 +1,8 @@
+{
+  "split_disjoint": true,
+  "reload_consistent": true,
+  "valid_predictions": true,
+  "data_hash_matched": true,
+  "task": "classification",
+  "manual_failure_rows_available": 4
+}

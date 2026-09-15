@@ -1,0 +1,14 @@
+{
+  "model": "forest",
+  "data_sha256": "4d7e02e28fff608bc13f405e3ab3db141b009d9a9c949c0b06fb74324a10b706",
+  "features": [
+    "state",
+    "district",
+    "season",
+    "year"
+  ],
+  "target": "yield_t_ha",
+  "task": "regression",
+  "config_sha256": "fa30bafcf4dc95002aad0e226b89f7fde3b8217a53192863a5355736297bed02",
+  "note": "Selected training-only pipeline; no train+validation refit"
+}

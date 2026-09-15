@@ -2,8 +2,9 @@
 
 Course: MDI3003 — Advanced Predictive Analytics · Instructor: Dr. Durgesh Kumar, Assistant Professor (Senior), SCOPE
 Fall Semester 2026–2027
+Selva Vinayagam Kamaraj 23MID0328
 
-Rice yield regression (core) and an independent crop-label classification extension, built and executed per the Experiment 08 student manual's Appendix A reference implementation.
+Rice yield regression (core) and an independent crop-label classification extension, built and executed per the Experiment 08 manual's Appendix A reference implementation.
 
 ## What this is
 
